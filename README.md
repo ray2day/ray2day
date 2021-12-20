@@ -1,7 +1,7 @@
 Hello,
 
 Let me introduce myself:</BR>
-I’m Raymond van Hoorn (aka ray2day). Since the 80's I am using computers, starting with MSX (mid 80's), DOS PC's (late 80's) and after that (since the 90's) I mainly worked with Apple computers (Mac OS environment) for my graphic profession.
+I’m Raymond van Hoorn (aka ray2day). Since the 80's I am using computers, starting with MSX (mid 80's), DOS PC's (late 80's) and after that (since the 90's) I mainly worked with Apple computers for my graphic profession.
 
 At the moment my profession is still graphic designer/desktop publisher, but I am retraining to become a professional programmer. As for my
 graphic design skills: I am a specialist using graphical software like Adobe Indesign, Photoshop and Illustrator. I am an expert on the encertified PDF-workflow; creating, editing and pre-flighting of PDF-documents using Adobe Acrobat Professional, Adobe Acrobat Distiller, Enfocus Pitstop and SAP/ready4print. I am also a specialist in the printing industry with and enormous practical experience and knowledge of offset-, silk screen- and digital printing. Also I have experience in packaging and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
@@ -21,7 +21,7 @@ As far earlier coding experiences concerned I have a history in:
 **As far learning C# and .NET concerned I RECENTLY HAVE DONE:**
 >> Avans+ post bachelor (HBO) collage education/course</BR>
 • C# programming (graduated - certificate of participation and assessment)
-- started off with Microsoft Docs related to C# and the .NET framework as also C# 101, C# Advanced, ASP.NET Core 101 and Blazor series (and ofcourse followed through/worked out the excercises if there were any)
+- started off with Microsoft Docs related to C# and the .NET framework as also C# 101, C# Advanced 101, ASP.NET Core 101 and Blazor 101 series (and ofcourse followed through/worked out the excercises if there were)
 - learned to work (code and debug) with Visual Studio 2019
 - self study from diverse sources and mainly the books 'Zie Scherp' (C# for beginners, enthusiasts and geeks) and 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) also worked out excercises
 >> Udemy courses related to C# programming and the .NET framework;</BR>
@@ -34,8 +34,8 @@ As far earlier coding experiences concerned I have a history in:
 **As far learning C# and .NET concerned I am BUSY WITH:**
 - expanding my C# coding skills by reading (internet/books), tutorials, excercises, etc. ...and just programming a lot!</BR>
 - learn to develop webapps and -services using the ASP.NET frame work; Razor pages, MVC etcetera with main focus on Blazor (mainly self study)
-- Udemy courses related to (advanced) C# OOP programming, ASP.NET Core, ASP.NET MVC, Web API with Blazor, Xamarin Forms
-- reading books like 'C# 9 and .Net 5 Mordern Cross-Platform Development' and 'Handboek ASP.NET Core 3.1'
+- Udemy courses related to (advanced) C# OOP programming, ASP.NET Core, ASP.NET, MVC, Web API, WASM, Blazor, Xamarin Forms
+- reading books like 'C# 9 and .Net 5 Modern Cross-Platform Development' and 'Handboek ASP.NET Core 3.1'
 - still having conversations with professionals in the workfield to help me to choose my path in coding
 - share knowledge with former fellow students through Discord
 - getting used more working with git and GitHub
@@ -44,6 +44,7 @@ As far earlier coding experiences concerned I have a history in:
 **As far learning C# and .NET concerned I WANT TO / PLANNED TO learn & goals:**
 - improve my C# and ASP.NET skills even more...
 - a new postbachelor college education / advanced course C# (ASP.NET web forms) at Avans+ hogeschool (start February 2022)
+- learn the ins- and outs of Visual Studio 2022
 - want to do an official Scrumm / Agile course
 
 >> find a great employer where I can have a great job in coding and expand my coding skills <<
