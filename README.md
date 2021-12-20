@@ -47,7 +47,7 @@ As far earlier coding experiences concerned I have a history in:
 - learn the ins- and outs of Visual Studio 2022
 - want to do an official Scrumm / Agile course
 
->> find a great employer where I can have a great job in coding and expand my coding skills <<
+>> find a great employer where I can have a great job in coding and expand my coding skills
 
 
 **And if time left I would like to:**
