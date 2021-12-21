@@ -21,12 +21,13 @@ As far earlier coding experiences concerned I have a history in:
 **As far learning C# and .NET concerned I RECENTLY HAVE DONE:**
 >> Avans+ post bachelor (HBO) collage education/course</BR>
 • C# programming (graduated - certificate of participation and assessment)
-- started off with Microsoft Docs related to C# and the .NET framework as also C# 101, C# Advanced 101, ASP.NET Core 101 and Blazor 101 series (and ofcourse followed through/worked out the excercises if there were)
+- started off with Microsoft Docs related to C# and the .NET framework as also C# 101, .NET 101, C# Advanced 101, ASP.NET Core 101 and Blazor 101 series (and ofcourse followed through/worked out the excercises if there were any)
 - learned to work (code and debug) with Visual Studio 2019
-- self study from diverse sources and mainly the books 'Zie Scherp' (C# for beginners, enthusiasts and geeks) and 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) also worked out excercises
+- self study from diverse sources and mainly the books 'Zie Scherp' (C# for beginners, enthusiasts and geeks) and 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) were a good guideline as also worked out excercises
 >> Udemy courses related to C# programming and the .NET framework;</BR>
 • C# Developers: Double Your Coding Speed with Visual Studio (certificate of completion)</BR>
 • C# Intermediate: Classes, Interfaces and OOP (certificate of completion)
+- practiced a lot and did a lot of of exercises (mainly focused on C#, ASP.NET and Blazor)
 - having conversations with professionals in the workfield to help me to choose my path in coding
 - a friend (professional programmer) has educated me to work with version control (git and GitHub)
 
@@ -36,23 +37,23 @@ As far earlier coding experiences concerned I have a history in:
 - learn to develop webapps and -services using the ASP.NET frame work; Razor pages, MVC etcetera with main focus on Blazor (mainly self study)
 - Udemy courses related to (advanced) C# OOP programming, ASP.NET Core, ASP.NET, MVC, Web API, WASM, Blazor, Xamarin Forms
 - reading books like 'C# 9 and .Net 5 Modern Cross-Platform Development' and 'Handboek ASP.NET Core 3.1'
-- still having conversations with professionals in the workfield to help me to choose my path in coding
-- share knowledge with former fellow students through Discord
+- having conversations with professionals in the workfield to help me to choose my path in coding
+- share knowledge with fellow C# and .NET students through Discord
 - getting used more working with git and GitHub
 
 
 **As far learning C# and .NET concerned I WANT TO / PLANNED TO learn & goals:**
 - improve my C# and ASP.NET skills even more...
 - a new postbachelor college education / advanced course C# (ASP.NET web forms) at Avans+ hogeschool (start February 2022)
-- learn the ins- and outs of Visual Studio 2022
+- learn the ins- and outs of C# 10, NET 6 and Visual Studio 2022
 - want to do an official Scrumm / Agile course
 
 >> find a great employer where I can have a great job in coding and expand my coding skills
 
 
 **And if time left I would like to:**
-- working with Xamarin / XCode
-- building IOS / and other mobile applications
+- working with Xamarin / mono (building IOS / and other mobile applications)
+- improve my Xcode skills
 - learn other programming languages
 - learn C and C++
 - learn Unity game development
