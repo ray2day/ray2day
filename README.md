@@ -26,7 +26,10 @@ As far earlier coding experiences concerned I have a history in:
 - self study from diverse sources and mainly the books 'Zie Scherp' (C# for beginners, enthusiasts and geeks) and 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) were a good guideline as also worked out excercises
 >> Udemy courses related to C# programming and the .NET framework;</BR>
 • C# Developers: Double Your Coding Speed with Visual Studio (certificate of completion)</BR>
-• C# Intermediate: Classes, Interfaces and OOP (certificate of completion)
+• C# Intermediate: Classes, Interfaces and OOP (certificate of completion)</P>
+
+>> LinkedIn Learn course related to C# programming and the .NET framework;</BR>
+• C# Test-Driven Development</BR>
 - practiced a lot and did a lot of of exercises (mainly focused on C#, ASP.NET and Blazor)
 - having conversations with professionals in the workfield to help me to choose my path in coding
 - a friend (professional programmer) has educated me to work with version control (git and GitHub)
