@@ -46,7 +46,7 @@ As far earlier coding experiences concerned I have a history in:
 - share knowledge with fellow C# and .NET students through Discord
 - getting used more working with git and GitHub
 - getting used more working with Postman / Swagger UI
-- learn more about API key- and (Jwt)Token Authentication / Identity Server 4 / Migrating
+- learn more about API key- and (jwt)Token Authentication / Identity Server 4 / Migrating
 
 
 
