@@ -14,7 +14,7 @@ My hobbies: scuba diving, hiking, MSX computers (collecting, games and coding) a
 
 As far earlier coding experiences concerned I have a history in:
 - coding plain HTML, CSS / later assisted with development tools (e.g. Adobe Dreamweaver)
-- coding in MSX-BASIC and a little Z80-assembly (hobby) also using Visual Studio Code)
+- coding in MSX-BASIC and a little Z80-assembly (hobby) also using Visual Studio Code
 
 
 
