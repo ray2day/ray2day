@@ -47,7 +47,6 @@ As far earlier coding experiences concerned I have a history in:
 - learn more about Authentication and Authorization / Duende and Identity Server 4 / Migrating
 - reading .NET related articles on internet and reading books like 'C# 9 and .Net 5 Modern Cross-Platform Development' and 'Handboek ASP.NET Core 3.1'
 - having conversations with professionals in the workfield to help me to choose my path in coding
-- share knowledge with fellow C# and .NET students through Discord
 
 
 **As far learning C# and .NET concerned I WANT TO / PLANNED TO learn & goals:**
