@@ -8,7 +8,7 @@ graphic skills: I am a specialist using software like Adobe Indesign, Photoshop 
 
 Despite being a graphic designer, in my former jobs technical side tasks were often handed to me: creating work-arounds, automate processes and find efficient ways to work using the software available. For example working at EMI Compact Disc I was involved as graphic expert in an IT project group to automate and implement the graphical process from customer to production in SAP. At my current job I automated the imposition processes for digital printing. 
 
-My hobbies: scuba diving, hiking, MSX computers (collecting, games and coding) and now coding in C# has become a great hobby.
+My hobbies: scuba diving, cats, hiking, MSX computers (collecting, games and coding) and now coding in C# has become a great hobby.
 
 
 
@@ -38,23 +38,24 @@ As far earlier coding experiences concerned I have a history in:
 
 
 **As far learning C# and .NET concerned I am BUSY WITH:**
-- expanding my C# coding skills by reading (internet/books), tutorials, excercises, etc. ...and just programming a lot!</BR>
-- learn to develop webapps and -services using the ASP.NET frame work; Razor pages / MVC / with main focus on Blazor (mainly self study)
+- expanding my C# coding skills by doing tutorials, excercises, etc. ...just programming a lot!</BR>
+- learn to develop webapps and -services using the ASP.NET frame work; Razor pages / MVC / Blazor (self study)
 - Udemy courses related to (advanced) C# OOP programming, ASP.NET Core, ASP.NET, MVC, Web API, WASM, Blazor, Xamarin Forms
-- reading books like 'C# 9 and .Net 5 Modern Cross-Platform Development' and 'Handboek ASP.NET Core 3.1'
+- getting used even more working with git and GitHub (both using it in Visual Studio as working on the Command Line)
+- learn more about developing RESTful API's and Blazor applications
+- getting even more used working with tools like Postman / Swagger UI
+- learn more about Authentication and Authorization / Duende and Identity Server 4 / Migrating
+- reading .NET related articles on internet and reading books like 'C# 9 and .Net 5 Modern Cross-Platform Development' and 'Handboek ASP.NET Core 3.1'
 - having conversations with professionals in the workfield to help me to choose my path in coding
 - share knowledge with fellow C# and .NET students through Discord
-- getting used even more working with git and GitHub (on command line as with using Visual Studio)
-- learn more about developing RESTful API's and Blazor applications
-- getting used more working with tools like Postman / Swagger UI
-- learn more about Authentication and Authorization / Duende and Identity Server 4 / Migrating
-
 
 
 **As far learning C# and .NET concerned I WANT TO / PLANNED TO learn & goals:**
 - improve my C# and ASP.NET skills even more...
 - a new postbachelor education or advanced course C# (ASP.NET web forms, WASM and Blazor)
 - learn the ins- and outs of C# 10, NET 6 and Visual Studio 2022
+- learn more about Entity framework
+- investigate Angular / React framework and view.js
 - want to do an official Scrumm / Agile course
 
 >> find a great employer where I can have a great job in coding and expand my coding skills
@@ -62,10 +63,8 @@ As far earlier coding experiences concerned I have a history in:
 
 **And if time left I would like to:**
 - working with Xamarin / mono (building IOS / and other mobile applications)
-- improve my Xcode skills
-- lear more about Entity framework
-- learn other programming languages
-- learn C and C++
+- learn other programming languages (C++, JavaScript)
+- learn (more) about Xcode
 - learn Unity game development
 - learn about Azure
 
