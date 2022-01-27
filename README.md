@@ -28,7 +28,7 @@ As far earlier coding experiences concerned I have a history in:
 • C# Developers: Double Your Coding Speed with Visual Studio (certificate of completion)</BR>
 • C# Intermediate: Classes, Interfaces and OOP (certificate of completion)</BR>
 • Complete Guide to ASP.NET Core RESTful API with Blazor WASM (certificate of completion)</P>
-(worked with Postman / Swagger UI / Entity framework / Razor pages / Blazor / API key- and (Jwt)Token Authentication / Identity Server 4 / Migration)
+  (worked with Postman / Swagger UI / Entity framework / Razor pages / Blazor / API key- and (Jwt)Token Authentication / Identity Server 4 / Migration)
 
 >> LinkedIn Learn course related to C# programming and the .NET framework;</BR>
 • C# Test-Driven Development</BR>
