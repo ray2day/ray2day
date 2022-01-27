@@ -28,7 +28,7 @@ As far earlier coding experiences concerned I have a history in:
 • C# Developers: Double Your Coding Speed with Visual Studio (certificate of completion)</BR>
 • C# Intermediate: Classes, Interfaces and OOP (certificate of completion)</BR>
 • Complete Guide to ASP.NET Core RESTful API with Blazor WASM (certificate of completion)</P>
-- because of this last course I got a little taste of: working with Postman / Swagger UI / Entity framework / Razor pages / Blazor / API key- and (Jwt)Token Authentication / Identity Server 4 / Migration
+(worked with Postman / Swagger UI / Entity framework / Razor pages / Blazor / API key- and (Jwt)Token Authentication / Identity Server 4 / Migration)
 
 >> LinkedIn Learn course related to C# programming and the .NET framework;</BR>
 • C# Test-Driven Development</BR>
@@ -43,7 +43,7 @@ As far earlier coding experiences concerned I have a history in:
 - Udemy courses related to (advanced) C# OOP programming, ASP.NET Core, ASP.NET, MVC, Web API, WASM, Blazor, Xamarin Forms
 - getting used even more working with git and GitHub (both using it in Visual Studio as working on the Command Line)
 - learn more about developing RESTful API's and Blazor applications
-- getting even more used working with tools like Postman / Swagger UI
+- working with tools like Postman / Swagger UI
 - learn more about Authentication and Authorization / Duende and Identity Server 4 / Migrating
 - reading .NET related articles on internet and reading books like 'C# 9 and .Net 5 Modern Cross-Platform Development' and 'Handboek ASP.NET Core 3.1'
 - having conversations with professionals in the workfield to help me to choose my path in coding
