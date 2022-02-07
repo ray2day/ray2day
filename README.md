@@ -18,7 +18,7 @@ As far earlier coding experiences concerned I have a history in:
 
 
 
-**As far learning C#/.NET and Blazor Web Assembly concerned I RECENTLY HAVE DONE:**
+**As far learning C#/.NET and (Blazor) Web Assembly concerned I RECENTLY HAVE DONE:**
 - started off with the basics; Microsoft Docs related to C# and the .NET framework as also C# 101, .NET 101, C# Advanced 101, ASP.NET Core 101 and Blazor 101 series (and ofcourse followed through/worked out the excercises if there were any) / and learned to work (code and debug) with Visual Studio Code and Visual Studio 2019 and 2022 both on Mac/Windows
 - self study; from diverse sources and mainly internet and books (books: 'Zie Scherp' (C# for beginners, enthusiasts and geeks) and 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) worked out completely including excercises, 'C# 9 and .Net 5 Modern Cross-Platform Development' and 'Handboek ASP.NET Core 3.1')
 - official college education/course;
@@ -26,7 +26,7 @@ As far earlier coding experiences concerned I have a history in:
 • C# programming (graduated - certificate of participation and assessment)
 - a friend (professional programmer) has educated me to work with version control (git and GitHub)
 - and the last months I did;
->> Udemy courses related to develop webapps and -services using the C# and the ASP.NET frame work; Razor pages / MVC / Blazor</BR>
+>> Udemy courses related to develop webapps/-services using the C# and the ASP.NET frame work; Razor pages / MVC / Blazor</BR>
 • C# Developers: Double Your Coding Speed with Visual Studio (certificate of completion)</BR>
 • C# Intermediate: Classes, Interfaces and OOP (certificate of completion)</BR>
 • Complete Guide to ASP.NET Core RESTful API with Blazor WASM (certificate of completion)</BR>
@@ -35,7 +35,7 @@ As far earlier coding experiences concerned I have a history in:
 - as also; I am having conversations with professionals in the workfield to help me to choose my path in coding
 
 
-**As far learning C#/.NET and Blazor Web Assembly concerned I am BUSY WITH:**
+**As far learning C#/.NET and (Blazor) Web Assembly concerned I am BUSY WITH:**
 - expanding my C# coding skills by doing tutorials, excercises, etc. ...just programming a lot!</BR>
 - learn to develop webapps and -services using the ASP.NET frame work; Razor pages / MVC / Blazor (self study)
 - Udemy courses related to (advanced) C# OOP programming, ASP.NET Core, ASP.NET, MVC, Web API, WASM, Blazor, Xamarin Forms
@@ -47,7 +47,7 @@ As far earlier coding experiences concerned I have a history in:
 - having conversations with professionals in the workfield to help me to choose my path in coding
 
 
-**As far learning C#/.NET and Blazor Web Assembly concerned I WANT TO / PLANNED TO learn & goals:**
+**As far learning C#/.NET and (Blazor) Web Assembly concerned I WANT TO / PLANNED TO learn & goals:**
 - improve my C# and ASP.NET skills even more...
 - a new postbachelor education or advanced course C# (ASP.NET web forms, WASM and Blazor)
 - learn the ins- and outs of C# 10, NET 6 and Visual Studio 2022
