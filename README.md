@@ -26,7 +26,7 @@ As far earlier coding experiences concerned I have a history in:
 >> Avans+ post bachelor (HBO)</BR>
 • C# programming (graduated - certificate of participation and assessment)
 - a friend (professional programmer) has educated me to work with version control (git and GitHub)
-- and the last months I did;
+- and the last period I did;
 >> Udemy courses related to develop webapps/-services using the C# and the ASP.NET frame work; Razor pages / MVC / Blazor</BR>
 • C# Developers: Double Your Coding Speed with Visual Studio (certificate of completion)</BR>
 • C# Intermediate: Classes, Interfaces and OOP (certificate of completion)</BR>
