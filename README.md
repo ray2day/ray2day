@@ -1,6 +1,6 @@
-Hello,
+Hello and welcome to my GitHub,
 
-Let me introduce myself: I’m Raymond van Hoorn (aka ray2day).
+Thank you for reading! Let me introduce myself: I’m Raymond van Hoorn (aka ray2day).
 
 Since the 80's I am using computers, starting with MSX (mid 80's), DOS PC's (late 80's) and after that (since the 90's) I mainly worked with Apple computers for my graphic profession.
 
@@ -9,7 +9,7 @@ graphic skills: I am a specialist using software like Adobe Indesign, Photoshop 
 
 Despite being a graphic designer, in my former jobs technical side tasks were often handed to me: creating work-arounds, automate processes and find efficient ways to work using the software available. For example working at EMI Compact Disc I was involved as graphic expert in an IT project group to automate and implement the graphical process from customer to production in SAP. At my current job I automated the imposition processes for digital printing. 
 
-My hobbies: scuba diving, cats, hiking, MSX computers (collecting, games and coding) and now coding in C# has become a great hobby.
+My hobbies: scuba diving, cats, hiking, MSX computers (collecting, games and coding) and now coding in C# has become a great passion.
 
 
 
