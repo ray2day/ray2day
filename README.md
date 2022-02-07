@@ -21,8 +21,7 @@ As far earlier coding experiences concerned I have a history in:
 **As far learning C#/.NET and Blazor Web Assembly concerned I RECENTLY HAVE DONE:**
 >> Avans+ post bachelor (HBO) collage education/course</BR>
 • C# programming (graduated - certificate of participation and assessment)
-- started off with Microsoft Docs related to C# and the .NET framework as also C# 101, .NET 101, C# Advanced 101, ASP.NET Core 101 and Blazor 101 series (and ofcourse followed through/worked out the excercises if there were any)
-- learned to work (code and debug) with Visual Studio 2019 and 2022
+- started off with the basics; Microsoft Docs related to C# and the .NET framework as also C# 101, .NET 101, C# Advanced 101, ASP.NET Core 101 and Blazor 101 series (and ofcourse followed through/worked out the excercises if there were any) and learned to work (code and debug) with Visual Studio 2019 and 2022
 - self study from diverse sources and mainly the books 'Zie Scherp' (C# for beginners, enthusiasts and geeks) and 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) were a good guideline as also worked out excercises
 >> Udemy courses related to C# programming and the .NET framework;</BR>
 • C# Developers: Double Your Coding Speed with Visual Studio (certificate of completion)</BR>
