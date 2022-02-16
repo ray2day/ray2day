@@ -4,8 +4,9 @@ Thank you for reading! Let me introduce myself: I’m Raymond van Hoorn (aka ray
 
 Since the 80's I am using computers, starting with MSX (mid 80's), DOS PC's (late 80's) and after that (since the 90's) I mainly worked with Apple computers for my graphic profession.
 
-My profession is graphic designer/desktop publisher, but I am retraining to become a professional programmer. As for my
-graphic skills: I am a specialist using software like Adobe Indesign, Photoshop and Illustrator. Also a specialist in the printing industry with and enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I have experience in packaging and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest. I am an expert on the encertified PDF-workflow; creating, editing and pre-flighting of PDF-documents using Adobe Acrobat Professional, Adobe Acrobat Distiller, Enfocus Pitstop and SAP/ready4print. 
+My profession is graphic designer/desktop publisher, but I am retraining to become a professional programmer. December 2022 I graduated post bachelor for C# programming at Avans hoge school (HBO). I am currently doing a lot of self-study to improve my skills even more. Mainly focused on building ASP.NET applications using Blazor web assembly. 
+
+For my graphic skills: I am a specialist using software like Adobe Indesign, Photoshop and Illustrator. Also a specialist in the printing industry with and enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I have experience in packaging and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest. I am an expert on the encertified PDF-workflow; creating, editing and pre-flighting of PDF-documents using Adobe Acrobat Professional, Adobe Acrobat Distiller, Enfocus Pitstop and SAP/ready4print. 
 
 Despite being a graphic designer, in my former jobs technical side tasks were often handed to me: creating work-arounds, automate processes and find efficient ways to work using the software available. For example working at EMI Compact Disc I was involved as graphic expert in an IT project group to automate and implement the graphical process from customer to production in SAP. At my current job I automated the imposition processes for digital printing. 
 
@@ -32,7 +33,7 @@ As far earlier coding experiences concerned I have a history in:
 • C# Intermediate: Classes, Interfaces and OOP (certificate of completion)</BR>
 • Complete Guide to ASP.NET Core RESTful API with Blazor WASM (certificate of completion)</BR>
 • Modern Web Development with Blazor WebAssembley (certificate of completion)</P>
-- next to that; practiced a lot and did a lot of of exercises (mainly focused on C#, ASP.NET and Blazor)
+- a lot of practicing, a lot of exercises and built some hobby applications in C#
 - as also; I am having conversations with professionals in the workfield to help me to choose my path in coding
 
 
