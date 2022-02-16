@@ -8,7 +8,7 @@ My profession is graphic designer/desktop publisher, but I am retraining to beco
 
 For my graphic skills: I am a specialist using software like Adobe Indesign, Photoshop and Illustrator. Also a specialist in the printing industry with and enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I have experience in packaging and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest. I am an expert on the encertified PDF-workflow; creating, editing and pre-flighting of PDF-documents using Adobe Acrobat Professional, Adobe Acrobat Distiller, Enfocus Pitstop and SAP/ready4print. 
 
-Despite being a graphic designer, in my former jobs technical side tasks were often handed to me: creating work-arounds, automate processes and find efficient ways to work using the software available. For example working at EMI Compact Disc I was involved as graphic expert in an IT project group to automate and implement the graphical process from customer to production in SAP. At my current job I automated the imposition processes for digital printing. 
+Despite being a graphic designer, in my former jobs technical side tasks were often handed to me: creating work-arounds, automate processes and find efficient ways to work using the software available. At EMI Compact Disc I was involved in an IT project group to automate and implement the graphical process from customer to production in SAP. At my last job I took care of the automation of the imposition process for digital printing. 
 
 My hobbies: scuba diving, cats, hiking, MSX computers (collecting, games and coding) and now coding in C# has become a great passion.
 
