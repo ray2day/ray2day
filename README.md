@@ -4,7 +4,7 @@ Thank you for reading! Let me introduce myself: I’m Raymond van Hoorn (aka ray
 
 Since the 80's I am using computers, starting with MSX (mid 80's), DOS PC's (late 80's) and after that (since the 90's) I mainly worked with Apple computers for my graphic profession.
 
-My profession is graphic designer/desktop publisher, but I am retraining to become a professional programmer. December 2022 I graduated post bachelor for C# programming at Avans hoge school (HBO). I am currently doing a lot of self-study to improve my skills even more. Mainly focused on building ASP.NET applications using Blazor web assembly. 
+My profession is graphic designer/desktop publisher, but I am retraining to become a professional programmer. Last December 2022 I graduated post bachelor for C# programming at Avans hoge school (HBO). I am currently doing a lot of self-study to improve my skills even more. Mainly focused on building ASP.NET applications using Blazor web assembly. 
 
 For my graphic skills: I am a specialist using software like Adobe Indesign, Photoshop and Illustrator. Also a specialist in the printing industry with and enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I have experience in packaging and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest. I am an expert on the encertified PDF-workflow; creating, editing and pre-flighting of PDF-documents using Adobe Acrobat Professional, Adobe Acrobat Distiller, Enfocus Pitstop and SAP/ready4print. 
 
