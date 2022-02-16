@@ -4,7 +4,7 @@ Thank you for reading! Let me introduce myself: I’m Raymond van Hoorn (aka ray
 
 Since the 80's I am using computers, starting with MSX (mid 80's), DOS PC's (late 80's) and after that (since the 90's) I mainly worked with Apple computers for my graphic profession.
 
-My profession is graphic designer/desktop publisher, but I am retraining to become a professional programmer. In December 2022 I graduated post bachelor C# programming at Avans hoge school (HBO). I am currently doing a lot of self-study to improve my skills even more. Mainly focused on building ASP.NET applications using Blazor web assembly. 
+My profession is graphic designer/desktop publisher, but I am retraining to become a professional programmer. In December 2022 I graduated post bachelor C# programming at Avans hoge school (HBO). I am currently doing a lot of self-study to improve my skills even more. At the moment mainly focused on ASP.NET building applications using Blazor web assembly. 
 
 For my graphic skills: I am a specialist using software like Adobe Indesign, Photoshop and Illustrator. Also a specialist in the printing industry with and enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I have experience in packaging and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest. I am an expert on the encertified PDF-workflow; creating, editing and pre-flighting of PDF-documents using Adobe Acrobat Professional, Adobe Acrobat Distiller, Enfocus Pitstop and SAP/ready4print. 
 
@@ -33,17 +33,17 @@ As far earlier coding experiences concerned I have a history in:
 • C# Intermediate: Classes, Interfaces and OOP (certificate of completion)</BR>
 • Complete Guide to ASP.NET Core RESTful API with Blazor WASM (certificate of completion)</BR>
 • Modern Web Development with Blazor WebAssembley (certificate of completion)</P>
-- a lot of practicing, a lot of exercises and built some hobby applications in C#
-- as also; I am having conversations with professionals in the workfield to help me to choose my path in coding
+- a lot of practicing, a lot of exercises and built some (hobby) applications of my own
+- also I am having conversations with professionals in the workfield to help me to choose my path in coding
 
 
 **As far learning C#/.NET and (Blazor) Web Assembly concerned I am BUSY WITH:**
 - expanding my C# coding skills by doing tutorials, excercises, etc. ...just programming a lot!</BR>
 - learn to develop webapps and -services using the ASP.NET frame work; Razor pages / MVC / Blazor (self study)
 - Udemy courses related to (advanced) C# OOP programming, ASP.NET Core, ASP.NET, MVC, Web API, WASM, Blazor, Xamarin Forms
-- getting used even more working with git and GitHub (both using it in Visual Studio as working on the Command Line)
+- getting used even more working with git and GitHub (both using it in Visual Studio as working with it on the Command Line)
 - learn more about developing RESTful API's and Blazor applications
-- working with tools like Postman / Swagger UI
+- working with assistive tools like Postman / Swagger UI
 - learn more about Authentication and Authorization / Duende and Identity Server 4 / Migrating
 - reading .NET related articles on internet and reading books like 'C# 9 and .Net 5 Modern Cross-Platform Development' and 'Handboek ASP.NET Core 3.1'
 - having conversations with professionals in the workfield to help me to choose my path in coding
