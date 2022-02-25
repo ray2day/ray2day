@@ -64,8 +64,8 @@ As far earlier coding experiences concerned I have a history in:
 - working with Xamarin / mono (building IOS / and other mobile applications)
 - learn other programming languages (C++, JavaScript)
 - learn (more) about Xcode
+- learn to work with Azure DevOps
 - learn Unity game development
-- learn about Azure
 
 
 How to reach me:
