@@ -33,6 +33,10 @@ As far earlier coding experiences concerned I have a history in:
 • C# Intermediate: Classes, Interfaces and OOP (certificate of completion)</BR>
 • Complete Guide to ASP.NET Core RESTful API with Blazor WASM (certificate of completion)</BR>
 • Modern Web Development with Blazor WebAssembley (certificate of completion)</P>
+<br />
+>>Other courses
+• C# Test-Driven development - LinkedIn Learning-tutorial (finished completely)</BR>
+• Introduction to ASP.NET Core MVC (.NET 5) - YouTube-tutorial (finished completely)</P>
 - a lot of practicing, a lot of exercises and built some (hobby) applications of my own
 - also I am having conversations with professionals in the workfield to help me to choose my path in coding
 
