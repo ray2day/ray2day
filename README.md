@@ -4,7 +4,7 @@ Let me introduce myself: I’m Raymond van Hoorn (aka ray2day). I am a graphic d
 
 For my graphic skills: I am an expert using software like Adobe Indesign, Photoshop, Illustrator and the encertified PDF-workflow. Also a specialist in the printing industry with and enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I have experience in packaging and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
 
-Despite being a graphic designer, in my former jobs technical side tasks were often handed to me: creating work-arounds, automate processes and find efficient ways to work using the software available. At EMI Compact Disc I was involved in an IT project group to automate and implement the graphical process from customer to production in SAP. At my current job I automated most of the imposition processes for digital printing. 
+Despite being a graphic designer, in my former jobs technical side tasks were often handed to me: creating work-arounds, automate processes and find efficient ways to work using the software available. At EMI Compact Disc I was involved in an IT project group to automate and implement the graphical process from customer to production in SAP. At my current job I automated almost all of the imposition processes for digital printing. 
 
 My hobbies: scuba diving, cats, hiking, MSX computers (collecting, games and coding) and now coding in C# has become a great passion.
 
