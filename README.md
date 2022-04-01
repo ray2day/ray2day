@@ -44,6 +44,7 @@ Other courses</BR>
 - getting used even more working with git and GitHub (both using it in Visual Studio as working with it on the Command Line)
 - learn more about developing RESTful API's and Blazor applications
 - working with assistive tools like Postman / Swagger UI
+- get a taste of working with third party tools like Toastr, Syncfusion 
 - learn more about Authentication and Authorization / Duende and Identity Server 4 / Migrating
 - having conversations with professionals in the workfield to help me to choose my path in coding
 
