@@ -50,7 +50,8 @@ Other courses</BR>
 
 
 **As far learning C#/.NET and (Blazor) Web Assembly concerned I WANT TO / PLANNED TO learn & goals:**
-- improve my C# and ASP.NET skills even more... by starting a new (advanced) education/course or by getting some work experience in real (because I think I am ready for it)
+- improve my C# and ASP.NET skills even more... by starting a new (advanced) education/course
+- or by getting real life work experience (because I am ready for it!)
 - learn the ins- and outs of C# 10, NET 6 and Visual Studio 2022
 - investigate Angular / React framework and view.js
 - want to do an official Scrumm / Agile course
