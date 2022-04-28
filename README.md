@@ -23,7 +23,7 @@ As far earlier coding experiences concerned I have a history in:
 >> Avans+ post bachelor (HBO)</BR>
 • C# programming (graduated - certificate of participation and assessment)
 - a friend (professional programmer) has educated me to work with version control (git and GitHub) and as you can see here I have built up a nice library of (study material-)repositories
-- and the last period I did;
+- and the last period I did a lot of self study;
 >> Udemy courses related to develop webapps/-services using the C# and the ASP.NET frame work; Razor pages / MVC / Blazor</BR>
 • C# Developers: Double Your Coding Speed with Visual Studio (certificate of completion)</BR>
 • C# Intermediate: Classes, Interfaces and OOP (certificate of completion)</BR>
@@ -39,8 +39,8 @@ Other courses</BR>
 
 **As far learning C#/.NET and (Blazor) Web Assembly concerned I am BUSY WITH:**
 - expanding my C# coding skills by doing tutorials, excercises, etc. ...just programming a lot!</BR>
-- expand my knowledge about developing webapps and -services using the .NET frame work; Razor pages / MVC / Blazor (self study)
-- Udemy courses related to (advanced) C# OOP programming, ASP.NET Core, ASP.NET, MVC, Web API, WASM, Blazor, Xamarin Forms
+- expand my knowledge about developing webapps and -services using the .NET frame work; Razor pages / MVC / Blazor
+- Udemy courses related to (advanced) C# OOP programming, ASP.NET Core, ASP.NET, MVC, Web API, WASM, Blazor
 - getting used even more working with git and GitHub (both using it in Visual Studio as working with it on the Command Line)
 - learn more about developing RESTful API's and Blazor applications
 - working with assistive tools like Postman / Swagger UI
@@ -50,7 +50,7 @@ Other courses</BR>
 
 
 **As far learning C#/.NET and (Blazor) Web Assembly concerned I WANT TO / PLANNED TO learn & goals:**
-- improve my C# and ASP.NET skills even more... start a new (advanced) education / or course
+- improve my C# and ASP.NET skills even more... by starting a new (advanced) education/course or by getting some work experience in real (because I think I am ready for it)
 - learn the ins- and outs of C# 10, NET 6 and Visual Studio 2022
 - investigate Angular / React framework and view.js
 - want to do an official Scrumm / Agile course
