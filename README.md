@@ -17,13 +17,13 @@ As far earlier coding experiences concerned I have a history in:
 
 
 **As far learning C#, ASP.NET and (Blazor) Web Assembly concerned I RECENTLY HAVE DONE:**
-- started off with the basics; Microsoft Docs related to C# and the .NET framework as also C# 101, .NET 101, C# Advanced 101, ASP.NET Core 101 and Blazor 101 series and learned to work (code and debug) with Visual Studio Code and Visual Studio
-- self study; from diverse sources and mainly internet (YouTube and Udemy) and books ('Zie Scherp' (C# for beginners, enthusiasts and geeks) and 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) worked out completely including excercises, 'C# 9 and .Net 5 Modern Cross-Platform Development' and 'Handboek ASP.NET Core 3.1')
-- an official college education/course;
+- started off with; the 101 basics, Microsoft Docs, Visual Studio etc.
+- after that I did a lot of self study; from diverse sources and mainly internet (YouTube and Udemy) and books 'Zie Scherp' and the follow-up 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) worked out completely including excercises, 'C# 9 and .Net 5 Modern Cross-Platform Development' and 'Handboek ASP.NET Core 3.1')
+- followed by an official college education/course;
 >> Avans+ post bachelor (HBO)</BR>
 • C# programming (graduated - certificate of participation and assessment)
 - a friend (professional programmer) has educated me to work with version control (git and GitHub) and as you can see here I have built up a nice library of (study material-)repositories
-- and the last period I did a lot of self study;
+- and the last period I did more self study;
 >> Udemy courses related to develop webapps/-services using the C# and the ASP.NET frame work; Razor pages / MVC / Blazor</BR>
 • C# Developers: Double Your Coding Speed with Visual Studio (certificate of completion)</BR>
 • C# Intermediate: Classes, Interfaces and OOP (certificate of completion)</BR>
