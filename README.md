@@ -17,12 +17,12 @@ As far earlier coding experiences concerned I have a history in:
 
 
 **As far learning C#, ASP.NET and (Blazor) Web Assembly concerned I RECENTLY HAVE DONE:**
-- started off with; the 101 basics, Microsoft Docs, Visual Studio etc.
-- after that I did a lot of self study; from diverse sources and mainly internet (YouTube and Udemy) and books 'Zie Scherp' and the follow-up 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) worked out completely including excercises, 'C# 9 and .Net 5 Modern Cross-Platform Development' and 'Handboek ASP.NET Core 3.1')
-- followed by an official college education/course;
+- started off with the 101 basics, Microsoft Docs, Visual Studio etc.
+- after that I did a lot of self study from diverse sources and mainly internet (YouTube and Udemy) as also books 'Zie Scherp' and the follow-up 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) worked out completely including excercises, 'C# 9 and .Net 5 Modern Cross-Platform Development' and 'Handboek ASP.NET Core 3.1')
+- followed by an official college course in programming;
 >> Avans+ post bachelor (HBO)</BR>
 • C# programming (graduated - certificate of participation and assessment)
-- a friend (professional programmer) has educated me to work with version control (git and GitHub) and as you can see here I have built up a nice library of (study material-)repositories
+- a friend (professional programmer) has educated me version control, git and GitHub (as you can see I have built up quite a nice library of (study-)repositories)
 - and the last period I did more self study;
 >> Udemy courses related to develop webapps/-services using the C# and the ASP.NET frame work; Razor pages / MVC / Blazor</BR>
 • C# Developers: Double Your Coding Speed with Visual Studio (certificate of completion)</BR>
@@ -33,6 +33,8 @@ Other courses</BR>
 >>• C# Test-Driven development - LinkedIn Learning-tutorial (finished completely)</BR>
 • Introduction to ASP.NET Core MVC (.NET 5) - free YouTube-tutorial (finished completely)</BR>
 • Learn ASP.NET Core MVC (.NET 6) - free YouTube-tutorial (finished completely)</P>
+- learned the basics of working assistive tools like Postman / Swagger UI and other third party tools like Toastr, Syncfusion
+- learned myself the basics of working with Microsoft SQL Server Management Studio
 - a lot of practicing, a lot of exercises and built some (hobby) applications of my own
 - also I am having conversations with professionals in the workfield to help me to choose my path in coding
 
@@ -42,11 +44,10 @@ Other courses</BR>
 - expand my knowledge about developing webapps and -services using the .NET frame work; Razor pages / MVC / Blazor
 - Udemy courses related to (advanced) C# OOP programming, ASP.NET Core, ASP.NET, MVC, Web API, WASM, Blazor
 - getting used even more working with git and GitHub (both using it in Visual Studio as working with it on the Command Line)
-- learn more about developing RESTful API's and Blazor applications
-- working with assistive tools like Postman / Swagger UI
-- get a taste of working with third party tools like Toastr, Syncfusion 
-- learn more about Authentication and Authorization / Duende and Identity Server 4 / Migrating
-- having conversations with professionals in the workfield to help me to choose my path in coding
+- learn even more about developing RESTful API's and Blazor applications
+- learn more about Microsoft SQL Server Management Studio / managing and working with databases
+- learn more about Authentication and Authorization (Duende and Identity Server 4)
+- keep having conversations with professionals in the workfield to help me to choose my path in coding
 
 
 **As far learning C#, ASP.NET and (Blazor) Web Assembly concerned I WANT TO / PLANNED TO learn & goals:**
