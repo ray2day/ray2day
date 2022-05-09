@@ -1,6 +1,6 @@
 Hello and welcome to my GitHub,
 
-Let me introduce myself: I’m Raymond van Hoorn (aka ray2day). I am a Junior .NET developer and former graphic designer/desktop publisher. In December 2022 I graduated post bachelor C# programming at Avans hoge school (HBO). Next to that I have done, and am doing, a lot of self-study to improve my coding skills even more. At the moment mainly focused on ASP.NET building applications using MVC / Blazor web assembly. 
+Let me introduce myself: I’m Raymond van Hoorn (aka ray2day). I am a Junior .NET developer and former graphic designer/desktop publisher. In December 2021 I graduated post bachelor C# programming at Avans hoge school (HBO). Next to that I have done, and am doing, a lot of self-study to improve my coding skills even more. At the moment mainly focused on ASP.NET building applications using MVC / Blazor web assembly. 
 
 For my graphic skills: I am an expert using software like Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I have a lot of experience in packaging and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
 
