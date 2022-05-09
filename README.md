@@ -17,7 +17,7 @@ As far earlier coding experiences concerned I have a history in:
 
 
 **As far learning C#, ASP.NET MVC and (Blazor) Web Assembly concerned I RECENTLY HAVE DONE:**
-- started off with all the 101 basics, most of the Microsoft Docs and learned coding- and debugging with Visual Studio
+- started off with all the 101 basics, most of the Microsoft Docs and learned myself coding- and debugging with Visual Studio
 - after that I did a lot of self study from diverse sources and mainly internet (YouTube and Udemy) as also books 'Zie Scherp' and the follow-up 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) / Tim Dams worked out completely including excercises, 'C# 9 and .Net 5 Modern Cross-Platform Development' and 'Handboek ASP.NET Core 3.1' / Michiel de Rond
 - followed by an official college course in programming;
 >> Avans+ post bachelor (HBO)</BR>
