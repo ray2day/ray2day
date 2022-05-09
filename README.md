@@ -22,9 +22,8 @@ As far earlier coding experiences concerned I have a history in:
 - followed by an official college course in programming;
 >> Avans+ post bachelor (HBO)</BR>
 • C# programming (graduated - certificate of participation and assessment)
-- a friend (professional programmer) has educated me version control, git and GitHub (as you can see I have built up quite a nice library of (study-)repositories)
 - and the last period I did more self study;
->> Udemy courses related to develop webapps/-services using the C# and the ASP.NET frame work; Razor pages / MVC / Blazor</BR>
+>> Udemy courses</BR>
 • C# Basics for Beginners: Learn C# Fundamentals by Coding (certificate of completion)</BR>
 • C# Intermediate: Classes, Interfaces and OOP (certificate of completion)</BR>
 • C# Developers: Double Your Coding Speed with Visual Studio (certificate of completion)</BR>
@@ -34,6 +33,7 @@ Other courses</BR>
 >>• C# Test-Driven development - LinkedIn Learning-tutorial (finished completely)</BR>
 • Introduction to ASP.NET Core MVC (.NET 5) - free YouTube-tutorial (finished completely)</BR>
 • Learn ASP.NET Core MVC (.NET 6) - free YouTube-tutorial (finished completely)</P>
+- a friend (programmer) educated me in version control, git and GitHub (as you can see I have built up quite a nice library of repositories)
 - learned the basics of working assistive tools like Postman / Swagger UI and other third party tools like Toastr, Syncfusion
 - learned myself the basics of working with Microsoft SQL Server Management Studio
 - a lot of practicing, a lot of exercises and built some (hobby) applications of my own
