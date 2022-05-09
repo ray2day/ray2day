@@ -22,7 +22,7 @@ As far earlier coding experiences concerned I have a history in:
 - followed by an official college course in programming;
 >> Avans+ post bachelor (HBO)</BR>
 • C# programming (graduated - certificate of participation and assessment)
-- and the last period I did more self study;
+- and last period I spent my time with (more) self study;
 >> Udemy courses</BR>
 • C# Basics for Beginners: Learn C# Fundamentals by Coding / Mosh Hamedani (certificate of completion)</BR>
 • C# Intermediate: Classes, Interfaces and OOP / Mosh Hamedani (certificate of completion)</BR>
