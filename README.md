@@ -1,12 +1,12 @@
 Hello and welcome to my GitHub,
 
-Let me introduce myself: I’m Raymond van Hoorn (aka ray2day). I am a (former) graphic designer/desktop publisher retrained to a Junior .NET developer. In December 2022 I graduated post bachelor C# programming at Avans hoge school (HBO). I am currently doing a lot of self-study to improve my skills even more. At the moment mainly focused on ASP.NET building applications using Blazor web assembly. 
+Let me introduce myself: I’m Raymond van Hoorn (aka ray2day). I am a Junior .NET developer and former graphic designer/desktop publisher. In December 2022 I graduated post bachelor C# programming at Avans hoge school (HBO). Next to that I have done / and I am doing a lot of self-study to improve my skills even more. At the moment mainly focused on ASP.NET building applications using MVC / Blazor web assembly. 
 
 For my graphic skills: I am an expert using software like Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I have a lot of experience in packaging and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
 
-In my former jobs technical side tasks were often handed to me: creating work-arounds, automate processes and find efficient ways to work using the software available. At EMI Compact Disc I was involved in an IT project group to automate and implement the graphical process from customer to production in SAP. At my current job I automated almost all of the imposition processes for digital printing. 
+In former jobs technical side tasks were often handed to me: creating work-arounds, automate processes and find efficient ways to work using the software available. At EMI Compact Disc I was involved in an IT project group to automate and implement the graphical process from customer to production in SAP. At my current job I automated almost all of the imposition processes for digital printing. 
 
-My hobbies are: scuba diving, cats, hiking, MSX (retro) computers (collecting, playing games and of course coding).
+My hobbies are: scuba diving, cats, hiking and MSX (retro) computers (collecting, playing games and of course coding). My retro computer / programming hobby has lead me to retrain / and become a professional programmer.
 
 
 
