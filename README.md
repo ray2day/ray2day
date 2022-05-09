@@ -24,16 +24,16 @@ As far earlier coding experiences concerned I have a history in:
 • C# programming (graduated - certificate of participation and assessment)
 - and the last period I did more self study;
 >> Udemy courses</BR>
-• C# Basics for Beginners: Learn C# Fundamentals by Coding (certificate of completion)</BR>
-• C# Intermediate: Classes, Interfaces and OOP (certificate of completion)</BR>
-• C# Developers: Double Your Coding Speed with Visual Studio (certificate of completion)</BR>
-• Complete Guide to ASP.NET Core RESTful API with Blazor WASM (certificate of completion)</BR>
-• Modern Web Development with Blazor WebAssembley (certificate of completion)</P>
+• C# Basics for Beginners: Learn C# Fundamentals by Coding / Mosh Hamedani (certificate of completion)</BR>
+• C# Intermediate: Classes, Interfaces and OOP / Mosh Hamedani (certificate of completion)</BR>
+• C# Developers: Double Your Coding Speed with Visual Studio / Mosh Hamedani (certificate of completion)</BR>
+• Complete Guide to ASP.NET Core RESTful API with Blazor WASM / Frank Liu (certificate of completion)</BR>
+• Modern Web Development with Blazor WebAssembley / Trevoir Williams (certificate of completion)</P>
 Other courses</BR>
->>• C# Test-Driven development - LinkedIn Learning-tutorial (finished completely)</BR>
-• Introduction to ASP.NET Core MVC (.NET 5) - free YouTube-tutorial (finished completely)</BR>
-• Learn ASP.NET Core MVC (.NET 6) - free YouTube-tutorial (finished completely)</P>
-- a friend (programmer) educated me in version control, git and GitHub (as you can see I have built up quite a nice library of repositories)
+>>• C# Test-Driven development - LinkedIn Learning-tutorial / Christian Wenz (finished completely)</BR>
+• Introduction to ASP.NET Core MVC (.NET 5) - free YouTube-tutorial / Bhrugen Patel (finished completely)</BR>
+• Learn ASP.NET Core MVC (.NET 6) - free YouTube-tutorial / Bhrugen Patel (finished completely)</P>
+- a friend (programmer) educated me version control, git and GitHub (you can see I have built up a quite nice library of repositories)
 - learned the basics of working assistive tools like Postman / Swagger UI and other third party tools like Toastr, Syncfusion
 - learned myself the basics of working with Microsoft SQL Server Management Studio
 - a lot of practicing, a lot of exercises and built some (hobby) applications of my own
