@@ -25,8 +25,9 @@ As far earlier coding experiences concerned I have a history in:
 - a friend (professional programmer) has educated me version control, git and GitHub (as you can see I have built up quite a nice library of (study-)repositories)
 - and the last period I did more self study;
 >> Udemy courses related to develop webapps/-services using the C# and the ASP.NET frame work; Razor pages / MVC / Blazor</BR>
-• C# Developers: Double Your Coding Speed with Visual Studio (certificate of completion)</BR>
+• C# Basics for Beginners: Learn C# Fundamentals by Coding (certificate of completion)</BR>
 • C# Intermediate: Classes, Interfaces and OOP (certificate of completion)</BR>
+• C# Developers: Double Your Coding Speed with Visual Studio (certificate of completion)</BR>
 • Complete Guide to ASP.NET Core RESTful API with Blazor WASM (certificate of completion)</BR>
 • Modern Web Development with Blazor WebAssembley (certificate of completion)</P>
 Other courses</BR>
