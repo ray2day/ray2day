@@ -16,7 +16,7 @@ As far earlier coding experiences concerned I have a history in:
 
 
 
-**As far learning C#, ASP.NET and (Blazor) Web Assembly concerned I RECENTLY HAVE DONE:**
+**As far learning C#, ASP.NET MVC and (Blazor) Web Assembly concerned I RECENTLY HAVE DONE:**
 - started off with the 101 basics, Microsoft Docs, Visual Studio etc.
 - after that I did a lot of self study from diverse sources and mainly internet (YouTube and Udemy) as also books 'Zie Scherp' and the follow-up 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) worked out completely including excercises, 'C# 9 and .Net 5 Modern Cross-Platform Development' and 'Handboek ASP.NET Core 3.1')
 - followed by an official college course in programming;
@@ -40,7 +40,7 @@ Other courses</BR>
 - also I am having conversations with professionals in the workfield to help me to choose my path in coding
 
 
-**As far learning C#, ASP.NET and (Blazor) Web Assembly concerned I am BUSY WITH:**
+**As far learning C#, ASP.NET MVC and (Blazor) Web Assembly concerned I am BUSY WITH:**
 - expanding my C# coding skills by doing tutorials, excercises, etc. ...just programming a lot!</BR>
 - expand my knowledge about developing webapps and -services using the .NET frame work; Razor pages / MVC / Blazor
 - Udemy courses related to (advanced) C# OOP programming, ASP.NET Core, ASP.NET, MVC, Web API, WASM, Blazor
@@ -51,12 +51,12 @@ Other courses</BR>
 - keep having conversations with professionals in the workfield to help me to choose my path in coding
 
 
-**As far learning C#, ASP.NET and (Blazor) Web Assembly concerned I WANT TO / PLANNED TO learn & goals:**
+**As far learning C#, ASP.NET MVC and (Blazor) Web Assembly concerned I WANT TO / PLANNED TO learn & goals:**
 - improve my C# and ASP.NET skills even more... by starting a new (advanced) education/course
 - or by getting real life work experience (because I am ready for it!)
 - learn the ins- and outs of C# 10, NET 6 and Visual Studio 2022
 - investigate Angular / React framework and view.js
-- want to do an official Scrumm / Agile course
+- want to do an official Agile / Scrumm course
 
 >> find a great employer where I can have a great job in coding and expand my coding skills
 
