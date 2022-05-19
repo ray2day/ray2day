@@ -29,6 +29,8 @@ As far earlier coding experiences concerned I have a history in:
 • C# Developers: Double Your Coding Speed with Visual Studio / Mosh Hamedani (certificate of completion)</BR>
 • Complete Guide to ASP.NET Core RESTful API with Blazor WASM / Frank Liu (certificate of completion)</BR>
 • Modern Web Development with Blazor WebAssembley / Trevoir Williams (certificate of completion)</P>
+• Programming in Blazor ASP.NET Core 5 / Felipe Gavilán
+• Blazor Bootcamp - .NET6 (WASM and Server) / Bhrugen Patel
 Other courses</BR>
 >>• C# Test-Driven development - LinkedIn Learning-tutorial / Christian Wenz (finished completely)</BR>
 • Introduction to ASP.NET Core MVC (.NET 5) - free YouTube-tutorial / Bhrugen Patel (finished completely)</BR>
