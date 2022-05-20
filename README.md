@@ -51,7 +51,7 @@ Other courses</BR>
 - learn more about Microsoft SQL Server Management Studio / managing and working with databases
 - learn more about Authentication and Authorization (Duende and Identity Server 4)
 - keep having conversations with professionals in the workfield to help me to choose my path in coding
-- 
+
 >> a capacity building traject by BEE-ideas founding (May 2022 - November 2022)
 
 
