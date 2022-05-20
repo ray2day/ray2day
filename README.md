@@ -52,7 +52,7 @@ Other courses</BR>
 - learn more about Authentication and Authorization (Duende and Identity Server 4)
 - keep having conversations with professionals in the workfield to help me to choose my path in coding
 
->> a capacity building traject by BEE-ideas founding (May 2022 - November 2022)
+>> a capacity building traject by BEE-ideas founding (planned May 2022 - November 2022)
 
 
 **As far learning C# coding / .NET development concerned I WANT TO / PLANNED TO learn & goals:**
