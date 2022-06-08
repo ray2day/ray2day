@@ -1,6 +1,6 @@
 Hello and welcome to my GitHub,
 
-Let me introduce myself: I’m Raymond van Hoorn (aka ray2day). Developer and former graphic designer/desktop publisher.
+Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) a .NET developer and graphic designer/desktop publisher.
 
 For my development skills: In December 2021 I graduated post bachelor C# programming at Avans hoge school (HBO). Next to that I am doing a lot of self-study to improve my C# and .NET coding skills. At the moment I am working in a team as volunteer on a project of social interest. This will take until November. I am gaining work experience and it is possible for me to obtain my Scrum (PSM1) and Microsoft certificates.
 
