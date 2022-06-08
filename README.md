@@ -1,6 +1,8 @@
 Hello and welcome to my GitHub,
 
-Let me introduce myself: I’m Raymond van Hoorn (aka ray2day). I am a Junior .NET developer and former graphic designer/desktop publisher. In December 2021 I graduated post bachelor C# programming at Avans hoge school (HBO). Next to that I have done, and am doing, a lot of self-study to improve my coding skills even more. At the moment mainly focused on ASP.NET building applications using MVC / Blazor web assembly. 
+Let me introduce myself: I’m Raymond van Hoorn (aka ray2day). Developer and former graphic designer/desktop publisher.
+
+For my development skills: In December 2021 I graduated post bachelor C# programming at Avans hoge school (HBO). Next to that I am doing a lot of self-study to improve my C# and .NET coding skills. At the moment I am working in a team as volunteer on a project of social interest. This will take until November. I am gaining work experience and it is possible for me to obtain my Scrum (PSM1) and Microsoft certificates.
 
 For my graphic skills: I am an expert using software like Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I have a lot of experience in packaging and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
 
@@ -52,17 +54,17 @@ Other courses</BR>
 - learn more about Authentication and Authorization (Duende and Identity Server 4)
 - keep having conversations with professionals in the workfield to help me to choose my path in coding
 
->> a capacity building traject by BEE-ideas founding (planned May 2022 - November 2022)
+>> a capacity building traject by BEE-ideas founding (May 2022 - November 2022)
+
+- obtaining Scrum (PSM1) and Microsoft certificates
 
 
 **As far learning C# coding / .NET development concerned I WANT TO / PLANNED TO learn & goals:**
-- improve my C# and ASP.NET skills even more... by starting a new (advanced) education/course
-- or by getting real life work experience (because I am ready for it!)
+- improve my C# and .NET skills even more...
 - learn the ins- and outs of C# 10, NET 6 and Visual Studio 2022
 - investigate Angular / React framework and view.js
-- want to do an official Agile / Scrum course
 
->> find a great employer where I can have a great job in coding and expand my coding skills
+>> find a challenging job in a quiet working environment
 
 
 **And if time left I would like to:**
