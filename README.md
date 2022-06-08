@@ -2,7 +2,7 @@ Hello and welcome to my GitHub,
 
 Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) a .NET developer and graphic designer/desktop publisher.
 
-For my development skills: In December 2021 I graduated post bachelor C# programming at Avans hoge school (HBO). Next to that I am doing a lot of self-study to improve my C# and .NET coding skills. At the moment I am working in on a project of social interest. This will take until November. Next to gaining work experience in a team and under supervision, it is possible for me to do more self-study and also obtain my Scrum (PSM1) and Microsoft certificates.
+For my development skills: In December 2021 I graduated post bachelor C# programming at Avans hoge school (HBO). Next to that I am doing a lot of self-study to improve my C# and .NET coding skills. At the moment I am working as volunteer in a team on a project of social interest. This will take until November. Next to gaining work experience, it is possible for me to do more self-study and obtain my Scrum (PSM1) and Microsoft certificates also.
 
 For my graphic skills: I am an expert using software like Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I have a lot of experience in packaging and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
 
@@ -57,6 +57,8 @@ Other courses</BR>
 >> a capacity building traject by BEE-ideas founding (May 2022 - November 2022)
 
 - obtaining Scrum (PSM1) and Microsoft certificates
+- learn to work with Azure DevOps
+- SOLID-principles and Clean Coding
 
 
 **As far learning C# coding / .NET development concerned I WANT TO / PLANNED TO learn & goals:**
@@ -71,7 +73,6 @@ Other courses</BR>
 - working with Xamarin / mono (building IOS / and other mobile applications)
 - learn other programming languages (C++, Java)
 - learn (more) about Xcode
-- learn to work with Azure DevOps
 - learn Unity game development
 
 
