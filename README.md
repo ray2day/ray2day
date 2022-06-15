@@ -2,7 +2,7 @@ Hello and welcome to my GitHub,
 
 Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) a .NET developer and graphic designer/desktop publisher.
 
-For my development skills: In December 2021 I graduated post bachelor C# programming at Avans hoge school (HBO). Next to that I am doing a lot of self-study to improve my C# and .NET coding skills. At the moment I am working as volunteer in a team on a project of social interest. This will take until November. Next to gaining work experience, it is possible for me to do more self-study and obtain my Scrum (PSM1) and Microsoft certificates also.
+For my development skills: In December 2021 I graduated post bachelor C# programming at Avans hoge school (HBO). Next to that I am doing a lot of self-study to improve my C# and .NET coding skills. At the moment I am working as volunteer in a team on a project of social interest. This will take until November. Next to gaining work experience, I recently passed my Scrum (PSM I) exam and it is possible for me to do more self-study and obtain Microsoft certificates also.
 
 For my graphic skills: I am an expert using software like Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I have a lot of experience in packaging and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
 
@@ -33,6 +33,8 @@ As far earlier coding experiences concerned I have a history in:
 • Modern Web Development with Blazor WebAssembley / Trevoir Williams (certificate of completion)</BR>
 • Programming in Blazor ASP.NET Core 5 / Felipe Gavilán</BR>
 • Blazor Bootcamp - .NET6 (WASM and Server) / Bhrugen Patel</P>
+>> Scrum</BR>
+• professional Scrum Master (PSM I) (certificate)</P>
 Other courses</BR>
 >>• C# Test-Driven development - LinkedIn Learning-tutorial / Christian Wenz (finished completely)</BR>
 • Introduction to ASP.NET Core MVC (.NET 5) - free YouTube-tutorial / Bhrugen Patel (finished completely)</BR>
@@ -56,7 +58,7 @@ Other courses</BR>
 
 >> a capacity building traject by BEE-ideas founding (May 2022 - November 2022)
 
-- obtaining Scrum (PSM1) and Microsoft certificates
+- obtaining Microsoft certificates
 - learn to work with Azure DevOps
 - SOLID-principles and Clean Coding
 
