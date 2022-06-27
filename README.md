@@ -1,8 +1,8 @@
 Hello and welcome to my GitHub,
 
-Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) .NET developer and graphic designer.
+Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) .NET developer and (former) graphic designer.
 
-For my development skills: In December 2021 I graduated post bachelor C# programming at Avans+ hoge school (HBO). Next to that I am doing a lot of self-study to improve my C# and .NET coding skills. At the moment I am working as volunteer in a team on a project of social interest. This will take until November. Next to gaining work experience, I got the opportunity to obtain some certificates. Recently I passed my Scrum (PSM I) exam. In the near future I hope to obtain some Microsoft certificates also.
+For my development skills: In December 2021 I graduated post bachelor C# programming at Avans+ hoge school (HBO). Next to that I am doing a lot of self-study to improve my C# and .NET coding skills. At the moment I am working as volunteer in a team on a project of social interest. This will take until November. Next to gaining work experience, I got the opportunity to obtain some important certificates. Recently I passed my Scrum (PSM I) exam. In the near future I hope to obtain some other certificates also.
 
 For my graphic skills: I am an expert using software like Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I have a lot of experience in packaging and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
 
@@ -39,7 +39,9 @@ As far earlier coding experiences concerned I have a history in:
 Other courses</BR>
 >>• C# Test-Driven development - LinkedIn Learning-tutorial / Christian Wenz (finished completely)</BR>
 • Introduction to ASP.NET Core MVC (.NET 5) - free YouTube-tutorial / Bhrugen Patel (finished completely)</BR>
-• Learn ASP.NET Core MVC (.NET 6) - free YouTube-tutorial / Bhrugen Patel (finished completely)</P>
+• Learn ASP.NET Core MVC (.NET 6) - free YouTube-tutorial / Bhrugen Patel (finished completely)</BR>
+• Building a .NET 6 API Using TDD - free YouTube-tutorial / Wes Doyle (finished completely)</P>
+
 - a friend (programmer) educated me version control, git and GitHub (you can see I have built up a quite nice library of repositories)
 - learned the basics of working assistive tools like Postman / Swagger UI and other third party tools like Toastr, Syncfusion
 - learned myself the basics of working with Microsoft SQL Server Management Studio
@@ -59,7 +61,7 @@ Other courses</BR>
 
 >> a capacity building traject by BEE-ideas founding (May 2022 - November 2022)
 
-- obtaining Microsoft certificates
+- gaining work experience
 - learn to work with Azure DevOps
 - SOLID-principles and Clean Coding
 
