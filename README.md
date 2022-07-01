@@ -43,7 +43,7 @@ Other courses</BR>
 • Building a .NET 6 API Using TDD - free YouTube-tutorial / Wes Doyle (finished completely)</BR>
 • The Bowling Game Kata</P>
 
-- a friend (programmer) educated me in version control, using Git and GitHub. I learned to work with Git / GitHub using it for my own projects (as you can see I have built up a quite nice library of repositories) and later by working in a team using it with Azure DevOps.
+- a friend (programmer) educated me in version control, using Git and GitHub. I learned to work with Git / GitHub using it for my own projects (as you can see I have built up a quite nice library of repositories) and later by working in a team using it with Azure DevOps
 - learned the basics of working assistive tools like Postman / Swagger UI and other third party tools like Toastr, Syncfusion
 - learned myself the basics of working with Microsoft SQL Server Management Studio
 - a lot of practicing, a lot of exercises and built some (hobby) applications of my own
