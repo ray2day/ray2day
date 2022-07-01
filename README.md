@@ -19,7 +19,7 @@ As far earlier coding experiences concerned I have a history in:
 
 
 **As far learning C# coding / .NET development concerned I RECENTLY HAVE DONE:**
-- started off with all the 101 basics, most of the Microsoft Docs and learned myself coding- and debugging with Visual Studio
+- started off with all the 101 basics, most of the Microsoft Docs and learned myself coding- and debugging
 - after that I did a lot of self study from diverse sources and mainly internet (YouTube and Udemy) as also books 'Zie Scherp' and the follow-up 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) / Tim Dams worked out completely including excercises.
 - followed by an official college course in programming;
 >> Avans+ post bachelor (HBO)</BR>
@@ -59,7 +59,7 @@ Other courses</BR>
 - learn more about Authentication and Authorization (Duende and Identity Server 4)
 - keep having conversations with professionals in the workfield to help me to choose my path in coding
 
->> a capacity building traject by BEE-ideas founding (May 2022 - November 2022)
+>> a Capacity Building traject by BEE-ideas founding (May 2022 - November 2022)
 
 - gaining work experience and working in a team
 - learn to work with Azure DevOps
