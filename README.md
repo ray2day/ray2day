@@ -43,7 +43,7 @@ Other courses</BR>
 • Building a .NET 6 API Using TDD - free YouTube-tutorial / Wes Doyle (finished completely)</BR>
 • The Bowling Game Kata</P>
 
-- a friend (programmer) educated me version control, git and GitHub (you can see I have built up a quite nice library of repositories)
+- a friend (programmer) educated me in version control, using Git and GitHub. I learned to work with Git / GitHub using it for my own projects (as you can see I have built up a quite nice library of repositories) and later by working in a team using it with Azure DevOps.
 - learned the basics of working assistive tools like Postman / Swagger UI and other third party tools like Toastr, Syncfusion
 - learned myself the basics of working with Microsoft SQL Server Management Studio
 - a lot of practicing, a lot of exercises and built some (hobby) applications of my own
@@ -54,7 +54,6 @@ Other courses</BR>
 - expanding my C# coding skills by doing tutorials, excercises, etc. ...just programming a lot!</BR>
 - expand my knowledge about developing webapps and -services using the .NET frame work; Razor pages / MVC / Blazor
 - Udemy courses related to (advanced) C# OOP programming, ASP.NET Core, ASP.NET, MVC, Web API, WASM, Blazor
-- getting used even more working with git and GitHub (both using it in Visual Studio as working with it on the Command Line)
 - learn even more about developing RESTful API's and Blazor applications
 - learn more about Microsoft SQL Server Management Studio / managing and working with databases
 - learn more about Authentication and Authorization (Duende and Identity Server 4)
