@@ -62,9 +62,10 @@ Other courses</BR>
 
 >> a capacity building traject by BEE-ideas founding (May 2022 - November 2022)
 
-- gaining work experience
+- gaining work experience and working in a team
 - learn to work with Azure DevOps
-- SOLID-principles and Clean Coding
+- learn more about the SOLID-principles and Clean Coding
+- learn more about Test Driven Development
 
 
 **As far learning C# coding / .NET development concerned I WANT TO / PLANNED TO learn & goals:**
