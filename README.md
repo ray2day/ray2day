@@ -20,7 +20,7 @@ As far earlier coding experiences concerned I have a history in:
 
 **As far learning C# coding / .NET development concerned I RECENTLY HAVE DONE:**
 - started off with all the 101 basics, most of the Microsoft Docs and learned myself coding- and debugging with Visual Studio
-- after that I did a lot of self study from diverse sources and mainly internet (YouTube and Udemy) as also books 'Zie Scherp' and the follow-up 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) / Tim Dams worked out completely including excercises, 'C# 9 and .Net 5 Modern Cross-Platform Development' and 'Handboek ASP.NET Core 3.1' / Michiel de Rond
+- after that I did a lot of self study from diverse sources and mainly internet (YouTube and Udemy) as also books 'Zie Scherp' and the follow-up 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) / Tim Dams worked out completely including excercises.
 - followed by an official college course in programming;
 >> Avans+ post bachelor (HBO)</BR>
 • C# programming (graduated - certificate of participation and assessment)
@@ -40,7 +40,8 @@ Other courses</BR>
 >>• C# Test-Driven development - LinkedIn Learning-tutorial / Christian Wenz (finished completely)</BR>
 • Introduction to ASP.NET Core MVC (.NET 5) - free YouTube-tutorial / Bhrugen Patel (finished completely)</BR>
 • Learn ASP.NET Core MVC (.NET 6) - free YouTube-tutorial / Bhrugen Patel (finished completely)</BR>
-• Building a .NET 6 API Using TDD - free YouTube-tutorial / Wes Doyle (finished completely)</P>
+• Building a .NET 6 API Using TDD - free YouTube-tutorial / Wes Doyle (finished completely)</BR>
+• The Bowling Game Kata</P>
 
 - a friend (programmer) educated me version control, git and GitHub (you can see I have built up a quite nice library of repositories)
 - learned the basics of working assistive tools like Postman / Swagger UI and other third party tools like Toastr, Syncfusion
@@ -83,3 +84,14 @@ Other courses</BR>
 
 How to reach me:
 vanhoornraymond@gmail.com
+
+- - - 
+
+Book references:
+- Zie Scherp (C# for beginners, enthusiasts and geeks) / Tim Dams 
+- Zie Scherper (object oriented programming C# for advanced, enthusiasts and geeks) / Tim Dams 
+- C# 10 and .Net 6 Modern Cross-Platform Development' / Mark J. Price
+- 'Handboek ASP.NET Core 3.1' / Michiel de Rond
+- The Scrum Guide / Ken Schwaber and Jeff Sutherland
+- Clean Code (A Handbook of Agile Software Craftsmanship) / Robert C. Martin
+- Adaptive Code via C# (Agile coding with design patterns and SOLID principles) / Gary McLean Hall
