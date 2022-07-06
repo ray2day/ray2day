@@ -19,12 +19,11 @@ As far earlier coding experiences in my former jobs concerned I have a history i
 
 
 **As far learning C# coding / .NET development concerned I RECENTLY HAVE DONE:**
-- started off with all the 101 basics, most of the Microsoft Docs and learned myself coding- and debugging
-- after that I did a lot of self study from diverse sources and mainly internet (YouTube and Udemy) as also books 'Zie Scherp' and the follow-up 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) / Tim Dams worked out completely including excercises.
-- followed by an official college course in programming;
+- after started off with the (101) basics and most of the Microsoft Docs learning myself coding- and debugging using Visual Studio, I did a lot of SELF STUDY from diverse sources and mainly internet (YouTube and Udemy) as also books 'Zie Scherp' and the follow-up 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) / Tim Dams worked out completely including excercises.
+- soon this was followed by an OFFICIAL COLLEGE COURSE in programming;
 >> Avans+ post bachelor (HBO)</BR>
 • C# programming (graduated - certificate of participation and assessment)
-- and last period I spent my time with (more) self study;
+- in between I spent more time SELF STUDY;
 >> Udemy courses</BR>
 • C# Basics for Beginners: Learn C# Fundamentals by Coding / Mosh Hamedani (certificate of completion)</BR>
 • C# Intermediate: Classes, Interfaces and OOP / Mosh Hamedani (certificate of completion)</BR>
@@ -33,6 +32,7 @@ As far earlier coding experiences in my former jobs concerned I have a history i
 • Modern Web Development with Blazor WebAssembley / Trevoir Williams (certificate of completion)</BR>
 • Programming in Blazor ASP.NET Core 5 / Felipe Gavilán</BR>
 • Blazor Bootcamp - .NET6 (WASM and Server) / Bhrugen Patel (certificate of completion)</P>
+- at the moment I am GAINING WORK EXPERIENCE as volunteer in a team on a project of social interest at the moment
 >> Scrum</BR>
 • Complete Agile Scrum Master Certification Training / Mirko Perkusich (certificate of completion)</BR>
 • Professional Scrum Master (PSM I) (certificate)</P>
