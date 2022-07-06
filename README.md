@@ -32,7 +32,7 @@ As far earlier coding experiences concerned I have a history in:
 • Complete Guide to ASP.NET Core RESTful API with Blazor WASM / Frank Liu (certificate of completion)</BR>
 • Modern Web Development with Blazor WebAssembley / Trevoir Williams (certificate of completion)</BR>
 • Programming in Blazor ASP.NET Core 5 / Felipe Gavilán</BR>
-• Blazor Bootcamp - .NET6 (WASM and Server) / Bhrugen Patel</P>
+• Blazor Bootcamp - .NET6 (WASM and Server) / Bhrugen Patel (certificate of completion)</P>
 >> Scrum</BR>
 • Complete Agile Scrum Master Certification Training / Mirko Perkusich (certificate of completion)</BR>
 • Professional Scrum Master (PSM I) (certificate)</P>
