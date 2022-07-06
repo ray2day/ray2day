@@ -1,24 +1,24 @@
 Hello and welcome to my GitHub,
 
-Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) a .NET developer and a (former) graphic designer.
+Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) a C# programmer | .NET developer | Graphic Designer.
 
-For my development skills: In December 2021 I graduated post bachelor C# programming at Avans+ hoge school (HBO). Next to that I am doing a lot of self-study to improve my C# and .NET coding skills. At the moment I am working as volunteer in a team on a project of social interest. This will take until November. Next to gaining work experience, I got the opportunity to obtain some important certificates. Recently I passed my Scrum (PSM I) exam. In the near future I hope to obtain some other certificates also.
+In December 2021 I graduated post bachelor C# programming at Avans+ hoge school (HBO). Next to that I am doing a lot of self-study to improve my C# and .NET coding skills. To gain work experience I am working as volunteer in a team on a project of social interest at the moment. This will take until November. Next to gaining work experience, I got the opportunity to obtain more certificates in programming. Recently I passed my Scrum (PSM I) exam. In the near future I hope to obtain some other certificates also.
 
-For my graphic skills: I am an expert using software like Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I have a lot of experience in packaging and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
+I am an expert using software like Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I have a lot of experience in packaging and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
 
 In former jobs technical side tasks were often handed to me: creating work-arounds, automate processes and find efficient ways to work using the software available. At EMI Compact Disc I was involved in an IT project group to automate and implement the graphical process from customer to production in SAP. At my current job I automated almost all of the imposition processes for digital printing. 
 
-My hobbies are: scuba diving, cats, hiking and MSX (retro) computers (collecting, playing games and of course coding).<BR />My retro computer / programming hobby has lead me to retrain to and become a professional programmer.
+My hobbies are: scuba diving, hiking, cats and MSX (retro) computers (collecting, playing games and of course coding).<BR />My retro computer / programming hobby has lead me to retrain to and become a professional programmer.
 
 
 
-As far earlier coding experiences concerned I have a history in:
+As far earlier coding experiences in my former jobs concerned I have a history in:
 - coding plain HTML, CSS / later assisted with development tools (e.g. Adobe Dreamweaver)
 - coding in MSX-BASIC and a little Z80-assembly (hobby) on real hardware also emulated using Open MSX / Visual Studio Code
 
 
 
-**As far learning C# coding / .NET development concerned I RECENTLY HAVE DONE:**
+**As far learning C# coding / .NET development concerned I RECENTLY HAVE DONE: (overview)**
 - started off with all the 101 basics, most of the Microsoft Docs and learned myself coding- and debugging
 - after that I did a lot of self study from diverse sources and mainly internet (YouTube and Udemy) as also books 'Zie Scherp' and the follow-up 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) / Tim Dams worked out completely including excercises.
 - followed by an official college course in programming;
