@@ -1,8 +1,8 @@
 Hello and welcome to my GitHub,
 
-Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) a C# programmer | .NET developer | Graphic Designer.
+Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) a C# / .NET developer and (former) graphic designer. In this readme-file you can read how I retrained and became a professional C# / .NET programmer. Soon when I began this path I realized 'you never stop learning' while being a programmer, so even while I try to keep this readme as compact as possible, this is an ongrowing text-file about my everyday-expanding coding skills.
 
-In December 2021 I graduated post bachelor C# programming at Avans+ hoge school (HBO). Next to that I am doing a lot of self-study to improve my C# and .NET coding skills. To gain work experience I am working as volunteer in a team on a project of social interest at the moment. This will take until November. Next to gaining work experience, I got the opportunity to obtain more certificates in programming. Recently I passed my Scrum (PSM I) exam. In the near future I hope to obtain some other certificates also.
+In December 2021 I graduated post bachelor C# programming at Avans+ hoge school (HBO). I am doing a lot of self-study to improve my C# and .NET coding skills. At the moment I am gaining workexperience by working as volunteer in a team on a project of social interest at BEE-ideas. This will take until November. Next to gaining work experience, I got the opportunity to obtain more certificates in programming. Recently I passed my Scrum (PSM I) exam. In the near future I hope to obtain some other certificates also.
 
 I am an expert using software like Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I have a lot of experience in packaging and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
 
