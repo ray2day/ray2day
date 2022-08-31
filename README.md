@@ -58,7 +58,7 @@ Other courses</BR>
 - Udemy courses related to (advanced) C# OOP programming, ASP.NET Core, ASP.NET, MVC, Web API, WASM, Blazor
 - learn even more about developing RESTful API's and Blazor applications
 - learn more about Microsoft SQL Server Management Studio / managing and working with databases
-- learn more about Authentication and Authorization (Duende and Identity Server 4)
+- learn more about Azure DevOps / Active Directory / Authentication and Authorization
 - keep having conversations with professionals in the workfield to help me to choose my path in coding
 
 >> a Capacity Building traject by BEE-ideas founding (May 2022 - November 2022)
@@ -72,16 +72,15 @@ Other courses</BR>
 **As far learning C# coding / .NET development concerned I WANT TO / PLANNED TO learn & goals:**
 - improve my C# and .NET skills even more...
 - learn the ins- and outs of C# 10, NET 6 and Visual Studio 2022
-- investigate Angular / React framework and view.js
 
->> find a challenging job in a quiet working environment
+>> find a challenging job in a quiet working environment where I can expand my knowledge and coding skills
 
 
 **And if time left I would like to:**
+- started with Angular basics (tour of heroes), perhaps learn more
 - working with Xamarin / mono (building IOS / and other mobile applications)
 - learn other programming languages (C++, Java)
 - learn (more) about Xcode
-- learn Unity game development
 
 
 How to reach me:
