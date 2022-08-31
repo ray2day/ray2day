@@ -1,29 +1,31 @@
 Hello and welcome to my GitHub,
 
-Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) a C# / .NET developer and (former) graphic designer. In this readme-file you can read how I retrained and became a professional C# / .NET programmer. Soon as I started this path I realized this is an ongoing path, so even while I try to keep this readme as compact as possible, this is a growing text-file about my everyday-expanding coding skills.
+Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) a C# / .NET developer and (former) graphic designer. In this readme-file you can read how I retrained and became a professional C# / .NET programmer.
 
-In December 2021 I graduated post bachelor C# programming at Avans+ hoge school (HBO). I am doing a lot of self-study to improve my C# and .NET coding skills. At the moment I am gaining workexperience by working as volunteer in a team on a project of social interest at BEE-ideas. This will take until November. Next to gaining work experience, I got the opportunity to obtain more certificates in programming. Recently I passed my Scrum (PSM I) exam. In the near future I hope to obtain some other certificates also.
+As I started my path as developer I realized it's an ongoing path, so even while I am trying to keep this file as compact as possible, this text is an ongrowing file about my everyday-expanding coding skills.
+
+In December 2021 I graduated post bachelor C# programming at Avans+ hoge school. Since I am doing a lot of self-study to improve my C# and .NET coding skills. In May 2022 I started gaining workexperience by working as volunteer in a team on a IT-project of social interest at BEE-ideas. Next to gaining work experience, I got the opportunity to obtain more certificates in programming like the Scrum (PSMI) exam in June 2022.
 
 I am an expert using software like Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I have a lot of experience in packaging and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
 
-In former jobs technical side tasks were often handed to me: creating work-arounds, automate processes and find efficient ways to work using the software available. At EMI Compact Disc I was involved in an IT project group to automate and implement the graphical process from customer to production in SAP. At my current job I automated almost all of the imposition processes for digital printing. 
+In former graphic jobs technical side tasks were often handed to me: creating work-arounds, automate processes and find efficient ways to work using the software available. At EMI Compact Disc I was involved in an IT project group to automate and implement the graphical process from customer to production in SAP. At my current job I automated almost all of the imposition processes for digital printing. 
 
 My hobbies are: scuba diving, hiking, cats and MSX (retro) computers (collecting, playing games and of course coding).<BR />My retro computer / programming hobby has lead me to retrain to and become a professional programmer.
 
 
 
-As far earlier coding experiences in my former jobs concerned I have a history in:
-- coding plain HTML, CSS / later assisted with development tools (e.g. Adobe Dreamweaver)
-- coding in MSX-BASIC and a little Z80-assembly (hobby) on real hardware also emulated using Open MSX / Visual Studio Code
+As far earlier coding experiences concerned I have a history in:
+- coding plain HTML, CSS / later assisted with development tools (e.g. Adobe Dreamweaver) in former jobs
+- coding in MSX-BASIC and a little Z80-assembly on real hardware also emulated using Open MSX / Visual Studio Code as hobby
 
 
 
 **As far learning C# coding / .NET development concerned I RECENTLY HAVE DONE:**
 - after started off with the (101) basics and most of the Microsoft Docs learning myself coding- and debugging using Visual Studio, I did a lot of SELF STUDY from diverse sources and mainly internet (YouTube and Udemy) as also books 'Zie Scherp' and the follow-up 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) / Tim Dams worked out completely including excercises.
-- soon this was followed by an OFFICIAL COLLEGE COURSE in programming;
+- soon this was followed by an offical college course in programming;
 >> Avans+ post bachelor (HBO)</BR>
 • C# programming (graduated - certificate of participation and assessment)
-- in between I spent more time SELF STUDY;
+- in between I spent more time self study;
 >> Udemy courses</BR>
 • C# Basics for Beginners: Learn C# Fundamentals by Coding / Mosh Hamedani (certificate of completion)</BR>
 • C# Intermediate: Classes, Interfaces and OOP / Mosh Hamedani (certificate of completion)</BR>
@@ -32,7 +34,7 @@ As far earlier coding experiences in my former jobs concerned I have a history i
 • Modern Web Development with Blazor WebAssembley / Trevoir Williams (certificate of completion)</BR>
 • Programming in Blazor ASP.NET Core 5 / Felipe Gavilán</BR>
 • Blazor Bootcamp - .NET6 (WASM and Server) / Bhrugen Patel (certificate of completion)</P>
-- at the moment I am GAINING WORK EXPERIENCE as volunteer in a team on a project of social interest at the moment
+- at the moment I am gaining work experience as volunteer in a team on a project of social interest at the moment
 >> Scrum</BR>
 • Complete Agile Scrum Master Certification Training / Mirko Perkusich (certificate of completion)</BR>
 • Professional Scrum Master (PSM I) (certificate)</P>
@@ -43,7 +45,7 @@ Other courses</BR>
 • Building a .NET 6 API Using TDD - free YouTube-tutorial / Wes Doyle (finished completely)</BR>
 • The Bowling Game Kata</P>
 
-- a friend (programmer) educated me in version control, using Git and GitHub. I learned to work with Git / GitHub using it for my own projects (as you can see I have built up a quite nice library of repositories) and later by working in a team using it with Azure DevOps
+- a friend (programmer) educated me in version control, using Git and GitHub. I learned to work with Git / GitHub using it for my own projects (as you can see I have built up a quite nice library of repositories) and later by working in a team using Git in combination with Azure DevOps
 - learned the basics of working assistive tools like Postman / Swagger UI and other third party tools like Toastr, Syncfusion
 - learned myself the basics of working with Microsoft SQL Server Management Studio
 - a lot of practicing, a lot of exercises and built some (hobby) applications of my own
@@ -62,9 +64,9 @@ Other courses</BR>
 >> a Capacity Building traject by BEE-ideas founding (May 2022 - November 2022)
 
 - gaining work experience and working in a team
-- learn to work with Azure DevOps
-- learn more about the SOLID-principles and Clean Coding
-- learn more about Test Driven Development
+- learn working with Azure DevOps
+- improve my coding skills
+- learn more about the SOLID-principles and Clean Coding and Test Driven Development
 
 
 **As far learning C# coding / .NET development concerned I WANT TO / PLANNED TO learn & goals:**
