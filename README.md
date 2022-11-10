@@ -10,7 +10,7 @@ I am an expert using software like Adobe Indesign, Photoshop, Illustrator and th
 
 In former graphic jobs technical side tasks were often handed to me: creating work-arounds, automate processes and find efficient ways to work using the software available. At EMI Compact Disc I was involved in an IT project group to automate and implement the graphical process from customer to production in SAP. At my last graphic job I automated almost all of the imposition processes for digital printing. 
 
-My hobbies are: scuba diving, hiking, cats and MSX (retro) computers (collecting, playing games and of course coding). My retro computer / programming hobby has lead me to retrain to and become a professional programmer.
+My hobbies are: scuba diving, hiking, cats and MSX (retro) computers (collecting, playing games and of course coding). My retro computer- and programming hobby has lead me to retrain to and become a professional programmer.
 
 
 
