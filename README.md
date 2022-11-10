@@ -36,7 +36,7 @@ C# Basics for Beginners: Learn C# Fundamentals by Coding, C# Intermediate: Class
 Other courses</BR>
 • C# Test-Driven development, Introduction to ASP.NET Core MVC (.NET 5), Learn ASP.NET Core MVC (.NET 6), Building a .NET 6 API Using TDD and The Bowling Game Kata</P>
 
-Other</BR>
+Other<BR>
 - learned the basics of working assistive tools like Postman and other third party tools like Toastr, Syncfusion
 - a lot of practicing, a lot of exercises and built some (hobby) applications of my own
 - also I am having conversations with professionals in the workfield to help me to choose my path in coding
