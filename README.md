@@ -34,7 +34,7 @@ C# Basics for Beginners: Learn C# Fundamentals by Coding, C# Intermediate: Class
 • Professional Scrum Master (PSM I) (certificate)</P>
 
 Other courses</BR>
->>• C# Test-Driven development, Introduction to ASP.NET Core MVC (.NET 5), Learn ASP.NET Core MVC (.NET 6), Building a .NET 6 API Using TDD and The Bowling Game Kata</P>
+C# Test-Driven development, Introduction to ASP.NET Core MVC (.NET 5), Learn ASP.NET Core MVC (.NET 6), Building a .NET 6 API Using TDD and The Bowling Game Kata</P>
 
 - learned the basics of working assistive tools like Postman / Swagger UI and other third party tools like Toastr, Syncfusion
 - learned myself the basics of working with Microsoft SQL Server Management Studio
