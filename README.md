@@ -4,7 +4,7 @@ Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) a C# / .NET devel
 
 As I started my path as developer I realized it's an ongoing path, so even while I am trying to keep this readme-file as compact as possible, this text is an ongrowing file about my everyday-expanding coding skills.
 
-In December 2021 I graduated post bachelor C# programming at Avans+ hoge school. Since I am doing a lot of self-study to improve my C# and .NET coding skills. In May 2022 I started gaining workexperience by working as backend developer in a team on a project of social interest. Next to gaining work experience, I got the opportunity to obtain more certificates in programming like the Scrum (PSMI) exam in June 2022.
+In December 2021 I graduated post bachelor C# programming at Avans+ hoge school. Since I am improving my C# and .NET coding skills. In May 2022 I started gaining workexperience by working as backend developer in a team on a project of social interest. Next to gaining work experience, I got the opportunity to obtain more certificates in programming like the Scrum (PSMI) exam in June 2022.
 
 I am an expert using software like Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I have a lot of experience in packaging and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
 
