@@ -31,7 +31,7 @@ As far earlier coding experiences concerned I have a history in:
 C# Basics for Beginners: Learn C# Fundamentals by Coding, C# Intermediate: Classes, Interfaces and OOP, C# Developers: Double Your Coding Speed with Visual Studio, Complete Guide to ASP.NET Core RESTful API with Blazor WASM, Modern Web Development with Blazor WebAssembley, Programming in Blazor ASP.NET Core 5, Blazor Bootcamp - .NET6 (WASM and Server) and Complete Agile Scrum Master Certification Training</P>
 - BEE-ideas: I am gained work experience as backend developer in a team on a project of social interest
 >> Scrum</BR>
-• Professional Scrum Master (PSM I) (certificate)
+• Professional Scrum Master (PSM I) (certificate)</P>
 
 Other courses</BR>
 >>• C# Test-Driven development, Introduction to ASP.NET Core MVC (.NET 5), Learn ASP.NET Core MVC (.NET 6), Building a .NET 6 API Using TDD and The Bowling Game Kata</P>
