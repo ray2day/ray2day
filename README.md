@@ -6,7 +6,7 @@ As I started my path as developer I realized it's an ongoing path, so even while
 
 In December 2021 I graduated post bachelor C# programming at Avans+ hoge school. Since I am improving my C# and .NET coding skills. In May 2022 I started gaining workexperience by working as backend developer in a team on a project of social interest. Next to gaining work experience, I got the opportunity to obtain more certificates in programming like the Scrum (PSMI) exam in June 2022.
 
-I am an expert using software like Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I have a lot of experience in packaging and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
+I am an expert using software like Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I lots of experience in packaging / and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
 
 In former graphic jobs technical side tasks were often handed to me: creating work-arounds, automate processes and find efficient ways to work using the software available. At EMI Compact Disc I was involved in an IT project group to automate and implement the graphical process from customer to production in SAP. At my last graphic job I automated almost all of the imposition processes for digital printing. 
 
