@@ -29,15 +29,15 @@ As far earlier coding experiences concerned I have a history in:
 - in between I spent more time self study;
 >> Udemy courses (all certificate of completion)</BR>
 C# Basics for Beginners: Learn C# Fundamentals by Coding, C# Intermediate: Classes, Interfaces and OOP, C# Developers: Double Your Coding Speed with Visual Studio, Complete Guide to ASP.NET Core RESTful API with Blazor WASM, Modern Web Development with Blazor WebAssembley, Programming in Blazor ASP.NET Core 5, Blazor Bootcamp - .NET6 (WASM and Server) and Complete Agile Scrum Master Certification Training</P>
-- BEE-ideas: I am gained work experience as backend developer in a team on a project of social interest
+- BEE-ideas: I am gained work experience as backend developer in a team on a project of social interest working with Visual Studio / Visual Studio Code, Angular, Typescript, Node JS, C#, .NET, SQL Server Management Studio, Azure Devops, Swagger, Git etc.
 >> Scrum</BR>
 • Professional Scrum Master (PSM I) (certificate)</P>
 
 Other courses</BR>
-C# Test-Driven development, Introduction to ASP.NET Core MVC (.NET 5), Learn ASP.NET Core MVC (.NET 6), Building a .NET 6 API Using TDD and The Bowling Game Kata</P>
+• C# Test-Driven development, Introduction to ASP.NET Core MVC (.NET 5), Learn ASP.NET Core MVC (.NET 6), Building a .NET 6 API Using TDD and The Bowling Game Kata</P>
 
-- learned the basics of working assistive tools like Postman / Swagger UI and other third party tools like Toastr, Syncfusion
-- learned myself the basics of working with Microsoft SQL Server Management Studio
+Other</BR>
+- learned the basics of working assistive tools like Postman and other third party tools like Toastr, Syncfusion
 - a lot of practicing, a lot of exercises and built some (hobby) applications of my own
 - also I am having conversations with professionals in the workfield to help me to choose my path in coding
 
@@ -61,7 +61,7 @@ C# Test-Driven development, Introduction to ASP.NET Core MVC (.NET 5), Learn ASP
 
 **As far learning C# coding / .NET development concerned I WANT TO / PLANNED TO learn & goals:**
 - improve my C# and .NET skills even more...
-- learn the ins- and outs of C# 10, NET 6 and Visual Studio 2022
+- learn the ins- and outs of C# 11, NET 7 and Visual Studio 2022
 
 >> find a challenging job in a quiet working environment where I can expand my knowledge and coding skills
 
