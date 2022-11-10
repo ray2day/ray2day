@@ -1,6 +1,6 @@
 Hello and welcome to my GitHub,
 
-Let me introduce myself: I’m Raymond van Hoorn C# / .NET developer and graphic designer. In this readme-file you can read how I retrained and became a professional C# / .NET programmer.
+Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) a C# / .NET developer and graphic designer. In this readme-file you can read how I retrained and became a professional C# / .NET programmer.
 
 As I started my path as developer I realized it's an ongoing path, so even while I am trying to keep this readme-file as compact as possible, this text is an ongrowing file about my everyday-expanding coding skills.
 
