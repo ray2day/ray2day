@@ -4,9 +4,9 @@ Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) C# / .NET develop
 
 In December 2021 I graduated post bachelor C# programming at Avans+ hoge school in 's-Hertogenbosch. Since I am improving my C# and .NET coding skills.
 
-In May 2022 I started gaining workexperience by working as backend developer in a team on a project of social interest for a half year. Next to gaining work experience, I got the opportunity to obtain more certificates in programming like the Scrum (PSMI) exam in June 2022.
+In May 2022 I started gaining workexperience by working as backend developer in a team on a project of social interest for a half year. Next to gaining work experience, I got the opportunity to obtain more certificates in programming like the Professional Scrum Master exam (PSMI) in June 2022.
 
-In January 2023 I started self-study again. Improving my skills, mainly focused on expanding my C# skills and my ASP.NET knowledge including studying for the 98-361 MTA Software Development Fundamentals exam. Next to that hobby C# programming / and experimenting with WinForms.
+In January 2023 I started self-study again. Improving my skills, mainly focused on expanding my C# skills and my ASP.NET knowledge including studying for the Pearson IT MTA: 98-361 Software Development Fundamentals-exam. Next to that a lot of hobby C# programming (ASP.NET, Console apps and WinForms).
 
 What involves my graphic background: I am an expert in Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry (pre-press) with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I lots of experience in packaging / and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
 
