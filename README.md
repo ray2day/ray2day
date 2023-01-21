@@ -1,12 +1,14 @@
 Hello and welcome to my GitHub,
 
-Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) a C# / .NET developer and graphic designer. In this file you can read how I retrained and became a professional C# / .NET programmer. I'm trying to keep it compact, but like my career it's expanding every day.
+Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) C# / .NET developer and graphic designer. In this file you can read how I retrained and became a professional C# / .NET programmer. I'm trying to keep it compact, but like my career it's expanding every day.
 
 In December 2021 I graduated post bachelor C# programming at Avans+ hoge school in 's-Hertogenbosch. Since I am improving my C# and .NET coding skills.
 
-In May 2022 I started gaining workexperience by working as backend developer in a team on a project of social interest. Next to gaining work experience, I got the opportunity to obtain more certificates in programming like the Scrum (PSMI) exam in June 2022.
+In May 2022 I started gaining workexperience by working as backend developer in a team on a project of social interest for a half year. Next to gaining work experience, I got the opportunity to obtain more certificates in programming like the Scrum (PSMI) exam in June 2022.
 
-I am an expert in Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I lots of experience in packaging / and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
+In January 2023 I started self-study again. Improving my skills, mainly focused on expanding my C# skills and my ASP.NET knowledge including studying for the 98-361 MTA Software Development Fundamentals exam. Next to that hobby C# programming / and experimenting with WinForms.
+
+What involves my graphic background: I am an expert in Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry (pre-press) with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I lots of experience in packaging / and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
 
 In former graphic jobs technical side tasks were often handed to me: creating work-arounds, automate processes and find efficient ways to work using the software available. At EMI Compact Disc I was involved in an IT project group to automate and implement the graphical process from customer to production in SAP. At my last graphic job I automated almost all of the imposition processes for digital printing. 
 
