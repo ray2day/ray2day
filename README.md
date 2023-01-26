@@ -36,9 +36,10 @@ As far earlier coding experiences concerned I have a history in:
 - - Complete Guide to ASP.NET Core RESTful API with Blazor WASM
 - - Modern Web Development with Blazor WebAssembley
 - - Programming in Blazor ASP.NET Core 5
-- - Blazor Bootcamp - .NET6 (WASM and Server)
+- - Blazor Bootcamp - .NET6 E-Commerce Web App (WASM and Server)
 - - Restful API with .NET Core (.NET7),
-- - Complete Agile Scrum Master Certification Training and 98-361: Software Development Fundamentals (using C#)</P>
+- - Complete Agile Scrum Master Certification Training
+- - 98-361: Software Development Fundamentals (using C#)</P>
 - at BEE-ideas: I am gained work experience as backend developer in a team on a project of social interest working with Visual Studio / Visual Studio Code, Angular, Typescript, Node JS, C#, .NET, SQL Server Management Studio, Azure Devops, Swagger, Git etc.
 >> Scrum</BR>
 • Professional Scrum Master (PSM I) (certificate)</P>
