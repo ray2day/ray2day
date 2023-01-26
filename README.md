@@ -31,7 +31,7 @@ As far earlier coding experiences concerned I have a history in:
 - in between I spent more time self study;
 >> Udemy courses (all certificate of completion)</BR>
 C# Basics for Beginners: Learn C# Fundamentals by Coding
-| C# Intermediate: Classes, Interfaces and OOP
+• C# Intermediate: Classes, Interfaces and OOP
 | C# Developers: Double Your Coding Speed with Visual Studio
 | Complete Guide to ASP.NET Core RESTful API with Blazor WASM
 | Modern Web Development with Blazor WebAssembley
