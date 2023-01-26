@@ -98,4 +98,4 @@ Book references:
 - The Scrum Guide / Ken Schwaber and Jeff Sutherland
 - Clean Code (A Handbook of Agile Software Craftsmanship) / Robert C. Martin
 - Adaptive Code via C# (Agile coding with design patterns and SOLID principles) / Gary McLean Hall
-- Software Development Fundementals / Microsoft
+- Software Development Fundamentals / Microsoft
