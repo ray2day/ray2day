@@ -30,17 +30,19 @@ As far earlier coding experiences concerned I have a history in:
 • C# programming (graduated - certificate of participation and assessment)
 - in between I spent more time self study;
 >> Udemy courses (all certificate of completion)</BR>
-- - C# Basics for Beginners: Learn C# Fundamentals by Coding
-- - C# Intermediate: Classes, Interfaces and OOP
-- - C# Developers: Double Your Coding Speed with Visual Studio
-- - Complete Guide to ASP.NET Core RESTful API with Blazor WASM
-- - Modern Web Development with Blazor WebAssembley
-- - Programming in Blazor ASP.NET Core 5
-- - Blazor Bootcamp - .NET6 E-Commerce Web App (WASM and Server)
-- - Restful API with .NET Core (.NET7),
-- - Complete Agile Scrum Master Certification Training
-- - 98-361: Software Development Fundamentals (using C#)</P>>>
+- C# Basics for Beginners: Learn C# Fundamentals by Coding
+- C# Intermediate: Classes, Interfaces and OOP
+- C# Developers: Double Your Coding Speed with Visual Studio
+- Complete Guide to ASP.NET Core RESTful API with Blazor WASM
+- Modern Web Development with Blazor WebAssembley
+- Programming in Blazor ASP.NET Core 5
+- Blazor Bootcamp - .NET6 E-Commerce Web App (WASM and Server)
+- Restful API with .NET Core (.NET7),
+- Complete Agile Scrum Master Certification Training
+- 98-361: Software Development Fundamentals (using C#)</P>
+
 - at BEE-ideas: I am gained work experience as backend developer in a team on a project of social interest working with Visual Studio / Visual Studio Code, Angular, Typescript, Node JS, C#, .NET, SQL Server Management Studio, Azure Devops, Swagger, Git, Agile/Scrum etc.</BR>
+>> Scrum
 • Professional Scrum Master (PSM I) (certificate)</P>
 
 Other courses</BR>
