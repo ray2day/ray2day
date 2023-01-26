@@ -26,7 +26,7 @@ As far earlier coding experiences concerned I have a history in:
 - in the beginning I started off with the (101) basics and most of the Microsoft Docs learning myself coding- and debugging using Visual Studio, I did a lot of SELF STUDY from diverse sources and mainly internet (YouTube and Udemy) as also books 'Zie Scherp' and the follow-up 'Zie Scherper'(object oriented programming C# for advanced, enthusiasts and geeks) / Tim Dams worked out completely including excercises.
 - a friend (programmer) educated me in version control, using Git and GitHub. I learned to work with Git / GitHub using it for my own projects (as you can see I have built up a quite nice library of repositories) and later by working in a team using Git in combination with Azure DevOps
 - soon this was followed by an offical college course in programming;
->> Avans+ post bachelor (HBO)</BR>
+>> Avans+ post bachelor (HBO):</BR>
 • C# programming (graduated - certificate of participation and assessment)
 - in between I spent more time self study;
 >> Udemy courses (all certificate of completion):</BR>
@@ -42,7 +42,7 @@ As far earlier coding experiences concerned I have a history in:
 • 98-361: Software Development Fundamentals (using C#)</P>
 
 - at BEE-ideas: I am gained work experience as backend developer in a team on a project of social interest working with Visual Studio / Visual Studio Code, Angular, Typescript, Node JS, C#, .NET, SQL Server Management Studio, Azure Devops, Swagger, Git, Agile/Scrum etc.</BR>
->> Scrum
+>> Scrum:</BR>
 • Professional Scrum Master (PSM I) (certificate)</P>
 
 Other courses</BR>
