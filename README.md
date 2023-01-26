@@ -29,9 +29,9 @@ As far earlier coding experiences concerned I have a history in:
 >> Avans+ post bachelor (HBO)</BR>
 • C# programming (graduated - certificate of participation and assessment)
 - in between I spent more time self study;
->> Udemy courses (all certificate of completion)</BR>
-C# Basics for Beginners: Learn C# Fundamentals by Coding
-• C# Intermediate: Classes, Interfaces and OOP
+>> Udemy courses (all certificate of completion):</BR>
+• C# Basics for Beginners: Learn C# Fundamentals by Coding
+| C# Intermediate: Classes, Interfaces and OOP
 | C# Developers: Double Your Coding Speed with Visual Studio
 | Complete Guide to ASP.NET Core RESTful API with Blazor WASM
 | Modern Web Development with Blazor WebAssembley
