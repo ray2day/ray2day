@@ -3,7 +3,7 @@ Hello and welcome to my GitHub,
 Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) C# / .NET developer and graphic designer. In this file you can read how I retrained and became a professional C# / .NET programmer and how I still am improving my C# and .NET coding skills.
 
 December 2021: I graduated post bachelor C# programming at Avans+ hoge school in 's-Hertogenbosch.<br/>
-May 2022: I started gaining workexperience by working as backend developer in a team on a project of social interest for a half year.<br/>
+May 2022: Half year workexperience working as a backend developer in a team on a project of social interest.<br/>
 June 2022: I graduated to be a Professional Scrum Master (PSMI).<br/>
 November 2022: Presentation of the minimal viable product/demo of our project which was received well by the customer.<br/>
   I was asked to continue along with project, but chose to apply for a paid job.<br/>
