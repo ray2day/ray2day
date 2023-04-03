@@ -6,7 +6,7 @@ December 2021: Graduated post bachelor C# programming at Avans+ hoge school in '
 May 2022 - November 2022: Half year workexperience working as a backend developer in a team on a project of social interest.<br/>
 June 2022: Passed the official Professional Scrum Master (PSMI) exam. So I am a Professional Scrum Master now.<br/>
 November 2022: Presentation of the project (MVP) which was received well by the customer.<br>
-(I was asked to continue along with project, but chose to apply for a paid job.)<br/>
+(I was asked to continue along with project, but because it was volunteer work I chose to stop and apply for a paid job.)<br/>
 December 2022: Started self-study again. Improving my skills, mainly focused on expanding my C# skills and my ASP.NET
 as also studying for the Pearson IT MTA: 98-361 Software Development Fundamentals-exam.<br/>
 March 2023: Investigating Orchard Core framework and CMS as also DotNest.
