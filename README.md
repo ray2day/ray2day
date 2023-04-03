@@ -3,12 +3,13 @@ Hello and welcome to my GitHub,
 Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) C# / .NET developer and graphic designer. In this file you can read how I retrained and became a C# / .NET programmer and how I still am improving my C# and .NET coding skills.
 
 December 2021: Graduated post bachelor C# programming at Avans+ hoge school in 's-Hertogenbosch.<br/>
-May 2022: Half year workexperience working as a backend developer in a team on a project of social interest.<br/>
+May 2022 - November 2022: Half year workexperience working as a backend developer in a team on a project of social interest.<br/>
 June 2022: Passed the official Professional Scrum Master (PSMI) exam. So I am a Professional Scrum Master now.<br/>
-November 2022: Presentation of the project (MVP) received well by the customer. I was asked to continue along with project, but chose to apply for a paid job.<br/>
+November 2022: Presentation of the project (MVP) which was received well by the customer.<br>/
+I was asked to continue along with project, but chose to apply for a paid job.<br/>
 December 2022: Started self-study again. Improving my skills, mainly focused on expanding my C# skills and my ASP.NET
 as also studying for the Pearson IT MTA: 98-361 Software Development Fundamentals-exam.<br/>
-March 2023: Investigatin Orchard Core framework and CMS as also DotNest.
+March 2023: Investigating Orchard Core framework and CMS as also DotNest.
 
 What involves my graphic background: I am an expert in Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry (pre-press) with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I lots of experience in packaging / and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
 
