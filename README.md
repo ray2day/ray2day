@@ -8,7 +8,7 @@ June 2022: Passed the official Professional Scrum Master (PSMI) exam. So I am a 
 November 2022: Presentation of the minimal viable product/demo of our project received well by the customer.<br/>
   I was asked to continue along with project, but chose to apply for a paid job.<br/>
 December 2022: Started self-study again. Improving my skills, mainly focused on expanding my C# skills and my ASP.NET
-as also studying for the Pearson IT MTA: 98-361 Software Development Fundamentals-exam.
+as also studying for the Pearson IT MTA: 98-361 Software Development Fundamentals-exam.<br/>
 March 2023: Investigatin Orchard Core framework and CMS as also DotNest.
 
 What involves my graphic background: I am an expert in Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry (pre-press) with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I lots of experience in packaging / and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
