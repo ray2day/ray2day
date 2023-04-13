@@ -5,11 +5,9 @@ Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) C# / .NET develop
 December 2021: Graduated post bachelor C# programming at Avans+ hoge school in 's-Hertogenbosch.<br/>
 May 2022 - November 2022: Half year workexperience working as a backend developer in a team on a project of social interest.<br/>
 June 2022: Passed the official Professional Scrum Master (PSMI) exam. So I am a Professional Scrum Master now.<br/>
-November 2022: Presentation of the project (MVP) which was received well by the customer.<br>
+November 2022: Demo of the project which was received well by the customer.<br>
 (I was asked to continue along with project, but because it was volunteer work I chose to leave and apply for a paid job.)<br/>
-December 2022: Started self-study again. Improving my skills, mainly focused on expanding my C# skills and my ASP.NET
-as also studying for the Pearson IT MTA: 98-361 Software Development Fundamentals-exam.<br/>
-March 2023: Investigating Orchard Core framework and CMS as also DotNest.
+December 2022: Started self-study again. Improving my skills, mainly focused on expanding my C# skills and ASP.NET building web API's, as also studying for the MTA: 98-361 Software Development Fundamentals-exam, investigating Orchard Core framework and CMS as also DotNest. Also some test-projects of my own; implementing functionallity in Blazor Server App reading out Google Calendar API and coding a full Blog for my future website.
 
 What involves my graphic background: I am an expert in Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry (pre-press) with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I lots of experience in packaging / and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
 
@@ -52,7 +50,7 @@ Other courses</BR>
 • C# Test-Driven development, Introduction to ASP.NET Core MVC (.NET 5), Learn ASP.NET Core MVC (.NET 6), Building a .NET 6 API Using TDD and The Bowling Game Kata</P>
 
 Other
-- learned the basics of working assistive tools like Postman and other third party tools like Toastr, Syncfusion
+- learned the basics of working assistive tools like Postman and other third party tools like Toastr, Syncfusion, Ochard Core
 - a lot of practicing, a lot of exercises and built some (hobby) applications of my own
 - also I am having conversations with professionals in the workfield to help me to choose my path in coding
 
