@@ -1,13 +1,13 @@
 Hello and welcome to my GitHub,
 
-Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) C# / .NET developer and graphic designer. In this file you can read how I retrained and became a C# / .NET programmer and how I still am improving my C# and .NET coding skills.
+Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) C# / .NET developer and graphic designer. In this file you can read how I retrained to be a C# / .NET programmer and how I am improving my C# and .NET coding skills everyday.
 
 December 2021: Graduated post bachelor C# programming at Avans+ hoge school in 's-Hertogenbosch.<br/>
 May 2022 - November 2022: Half year workexperience working as a backend developer in a team on a project of social interest.<br/>
 June 2022: Passed the official Professional Scrum Master (PSMI) exam. So I am a Professional Scrum Master now.<br/>
-November 2022: Demo of the project which was received well by the customer.<br>
+November 2022: Demo of the project. Received well by the customer.<br>
 (I was asked to continue along with project, but because it was volunteer work I chose to leave and apply for a paid job.)<br/>
-December 2022: Started self-study again. Improving my skills, mainly focused on expanding my C# skills and ASP.NET building web API's, as also studying for the MTA: 98-361 Software Development Fundamentals-exam, investigating Orchard Core framework and CMS as also DotNest. Also some test-projects of my own; implementing functionallity in Blazor Server App reading out Google Calendar API and coding a full Blog for my future website.
+December 2022: Started self-study again. Improving my skills, mainly focused on expanding my C# skills and ASP.NET building web API's, as also studying for the MTA: 98-361 Software Development Fundamentals-exam. Also some projects of my own; functionallity tests in Blazor Server App (calendar, blog, database) for my future website.
 
 What involves my graphic background: I am an expert in Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry (pre-press) with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I lots of experience in packaging / and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
 
@@ -64,24 +64,18 @@ Other
 - learn more about Azure DevOps / Active Directory / Authentication and Authorization
 - keep having conversations with professionals in the workfield to help me to choose my path in coding
 
->> a Capacity Building traject by BEE-ideas founding (May 2022 - November 2022)
-
-- gaining work experience and working in a team
-- learn working with Azure DevOps
-- improve my coding skills
-- learn more about the SOLID-principles and Clean Coding and Test Driven Development
-
 
 **As far learning C# coding / .NET development concerned I WANT TO / PLANNED TO learn & goals:**
 - improve my C# and .NET skills even more...
 - learn the ins- and outs of C# 11, NET 7 and Visual Studio 2022
+- just gain workexperience
 
 >> find a challenging job in a quiet working environment where I can expand my knowledge and coding skills
 
 
 **And if time left I would like to:**
-- started with Angular basics (tour of heroes), perhaps learn more
-- working with Xamarin / mono (building IOS / and other mobile applications)
+- better understanding and learn more of building IOS and mobile applications (Xamarin, mono, MAUI, Blazor Hybrid)
+- expand my front-end knowledge (HTML5, Bootstrap, Angular, React, Vue)
 - learn other programming languages (C++, Java)
 - learn (more) about Xcode
 
