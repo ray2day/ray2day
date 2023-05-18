@@ -7,7 +7,7 @@ May 2022 - November 2022: Half year workexperience working as a backend develope
 June 2022: Passed the official Professional Scrum Master (PSMI) exam. So I am a Professional Scrum Master now.<br/>
 November 2022: Demo of the project. Received well by the customer.<br>
 (I was asked to continue along with project, but because it was volunteer work I chose to leave and apply for a paid job.)<br/>
-In between: Lots of self study. Improving skills, mainly focused on building API's. Busy with my own Blazor Server App project, my future MSX website (with a lot of functionallity: calendar, blog, database etc,). Also studying for MTA: 98-361 Software Development Fundamentals.
+In between: Lots of self study. Improving skills, mainly focused on building API's. Busy with my own Blazor Server App project, my future MSX website (with a lot of functionallity: calendar, blog, database etc,). Also studying for MTA: 98-361 Software Development Fundamentals.<br/>
 May 2023 - till now: Working as Back End developer.
 
 What involves my graphic background: I am an expert in Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry (pre-press) with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I lots of experience in packaging / and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
