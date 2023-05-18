@@ -7,7 +7,8 @@ May 2022 - November 2022: Half year workexperience working as a backend develope
 June 2022: Passed the official Professional Scrum Master (PSMI) exam. So I am a Professional Scrum Master now.<br/>
 November 2022: Demo of the project. Received well by the customer.<br>
 (I was asked to continue along with project, but because it was volunteer work I chose to leave and apply for a paid job.)<br/>
-December 2022: Started self-study again. Improving my skills, mainly focused on expanding my C# skills and ASP.NET building web API's, as also studying for the MTA: 98-361 Software Development Fundamentals-exam. Also some projects of my own; functionallity tests in Blazor Server App (calendar, blog, database) for my future website.
+In between: Lots of self study. Improving skills, mainly focused on building API's. Busy with my own Blazor Server App project, my future MSX website (with a lot of functionallity: calendar, blog, database etc,). Also studying for MTA: 98-361 Software Development Fundamentals.
+May 2023 - till now: Working as Back End developer.
 
 What involves my graphic background: I am an expert in Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry (pre-press) with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I lots of experience in packaging / and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
 
@@ -55,7 +56,7 @@ Other
 - also I am having conversations with professionals in the workfield to help me to choose my path in coding
 
 
-**As far learning C# coding / .NET development concerned I am BUSY WITH:**
+**As far learning C# coding / .NET development concerned I was BUSY WITH:**
 - expanding my C# coding skills by doing tutorials, excercises, etc. ...just programming a lot!</BR>
 - expand my knowledge about developing webapps and -services using the .NET frame work; Razor pages / MVC / Blazor
 - Udemy courses related to (advanced) C# OOP programming, ASP.NET Core, ASP.NET, MVC, Web API, WASM, Blazor
@@ -64,21 +65,22 @@ Other
 - learn more about Azure DevOps / Active Directory / Authentication and Authorization
 - keep having conversations with professionals in the workfield to help me to choose my path in coding
 
+**As far learning C# coding / .NET development concerned I am BUSY WITH:**
+- Working!! (..and ofcourse learning a lot overthere!)</BR>
+
 
 **As far learning C# coding / .NET development concerned I WANT TO / PLANNED TO learn & goals:**
 - improve my C# and .NET skills even more...
-- learn the ins- and outs of C# 11, NET 7 and Visual Studio 2022
+- learn more about databases (SQL, writing more complex queries etc.)
 - just gain workexperience
-
->> find a challenging job in a quiet working environment where I can expand my knowledge and coding skills
 
 
 **And if time left I would like to:**
+- build my own new MSX website (Blazor Server App)
 - better understanding and learn more of building IOS and mobile applications (Xamarin, mono, MAUI, Blazor Hybrid)
-- expand my front-end knowledge (HTML5, Bootstrap, Angular, React, Vue)
+- expand my front-end knowledge (HTML, CSS, Bootstrap, Angular, React, Vue)
 - learn other programming languages (C++, Java)
-- learn (more) about Xcode
-
+- 
 
 How to reach me:
 vanhoornraymond@gmail.com
