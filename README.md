@@ -1,13 +1,13 @@
 Hello and welcome to my GitHub,
 
-Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) C# / .NET developer and graphic designer. In this file you can read how I retrained to be a C# / .NET programmer and how I am improving my C# and .NET coding skills everyday.
+Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) C# / .NET developer (former graphic designer). In this file you can read how I retrained to be a C# / .NET programmer and how I am improving my C# and .NET coding skills everyday.
 
 December 2021: Graduated post bachelor C# programming at Avans+ hoge school in 's-Hertogenbosch.<br/>
 May 2022 - November 2022: Half year workexperience working as a backend developer in a team on a project of social interest.<br/>
 June 2022: Passed the official Professional Scrum Master (PSMI) exam. So I am a Professional Scrum Master now.<br/>
 November 2022: Demo of the project. Received well by the customer. (I was asked to continue along with project, but because it was volunteer work I chose to leave and apply for a paid job.)<br/>
 In between: Lots of self study. Improving skills, mainly focused on building API's. Busy with my own Blazor Server App project, my future MSX website (with a lot of functionallity: calendar, blog, database etc,). Also studying for MTA: 98-361 Software Development Fundamentals.<br/>
-May 2023 - till now: Working as Back End developer.
+May 2023 - till now: Working as Back End developer at Bookerz | Marketing Automation.
 
 What involves my graphic background: I am an expert in Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry (pre-press) with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I lots of experience in packaging / and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest.
 
@@ -65,7 +65,7 @@ Other
 - keep having conversations with professionals in the workfield to help me to choose my path in coding
 
 **As far learning C# coding / .NET development concerned I am BUSY WITH:**
-- Working!! (..and ofcourse learning a lot overthere!)</BR>
+- Working!! (..and ofcourse learning a lot at Bookerz!)</BR>
 
 
 **As far learning C# coding / .NET development concerned I WANT TO / PLANNED TO learn & goals:**
@@ -75,7 +75,8 @@ Other
 
 
 **And if time left I would like to:**
-- build my own new MSX website (Blazor Server App)
+- learn more Blazor (build my own new MSX website (hobby) Blazor Webassembly / and Blazor Server App)
+- more indepth about the differnet architectures / best practices etc.
 - better understanding and learn more of building IOS and mobile applications (Xamarin, mono, MAUI, Blazor Hybrid)
 - expand my front-end knowledge (HTML, CSS, Bootstrap, Angular, React, Vue)
 - learn other programming languages (C++, Java)
