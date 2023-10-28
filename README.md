@@ -44,7 +44,7 @@ As far earlier coding experiences concerned I have a history in:
 >> Scrum:</BR>
 • Professional Scrum Master (PSM I) (certificate)</P>
 
-- at Bookerz: Everyday I am working with Visual Studio and writing code in C# and doing a lot of database work and writing a lot of complex queries using SQL Server Management Studio. Also using a lot of other tools like I for example Gitkraken and Postman. I enjoy the coding and create great things, learning a lot from my more experienced back end collegues.</BR>
+- at Bookerz: Everyday I am working with Visual Studio, write code in C# and doing a lot of database work writing a lot of complex queries using SQL Server Management Studio. Also I am using a lot of other tools like for example Gitkraken and Postman. I enjoy coding and being part of great projects in which I learn a lot from my back end collegues.</BR>
 
 Other courses</BR>
 • C# Test-Driven development, Introduction to ASP.NET Core MVC (.NET 5), Learn ASP.NET Core MVC (.NET 6), Building a .NET 6 API Using TDD and The Bowling Game Kata</P>
