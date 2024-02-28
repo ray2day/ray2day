@@ -1,13 +1,13 @@
 Hello and welcome to my GitHub,
 
-Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) C# / .NET developer. In this file you can read how I retrained to be a C# / .NET programmer and how I am improving my C# and .NET coding skills everyday.
+Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) C# / .NET developer. In this file you can read how I retrained to become a programmer and how I am improving my C# and .NET coding skills everyday.
 
 December 2021: Graduated post bachelor C# programming at Avans+ hoge school in 's-Hertogenbosch.<br/>
 May 2022 - November 2022: Half year working as a backend developer in a team on a project of social interest.<br/>
 June 2022: Passed the official Professional Scrum Master (PSMI) exam.<br/>
 November 2022: Demo of the project. Received well by the customer. (I was asked to continue along with project, but because it was volunteer work I chose to leave and apply for a paid job.)<br/>
 In between: Lots of self study. Improving skills, mainly focused on building API's. Busy with my own Blazor Server App project, my future MSX website (with a lot of functionallity: calendar, blog, database etc,).<br/>
-May 2023 - till now: Working as Back End developer at Bookerz | Marketing Automation.
+May 2023 - till now: Working as Back End developer at Bookerz | Marketing Automation (backend: C#, .NET and SQL, and a little frontend: HTML / Javascript).
 
 I am a former graphic designer and what involves my graphic background: I am an expert in Adobe Indesign, Photoshop, Illustrator and the PDF-workflow. Also a specialist in the printing industry (pre-press) with an enormous practical experience and knowledge of offset-, silk screen- and digital printing. Next to that I lots of experience in packaging / and setting up color management and print production planning systems and workflows. My strenght is my technical knowledge and interest. Tn these jobs technical side tasks were often handed to me: creating work-arounds, automate processes and find efficient ways to work using the software available. At EMI Compact Disc I was involved in an IT project group to automate and implement the graphical process from customer to production in SAP. At my last graphic job I automated almost all of the imposition processes for digital printing. 
 
@@ -52,7 +52,7 @@ Other courses</BR>
 Other
 - learned working with assistive tools like Postman and other third party tools like Toastr, Quill, Syncfusion, Ochard Core
 - a lot of practicing, a lot of exercises and built some (hobby) applications of my own
-- also I am having conversations with professionals in the workfield to help me to choose my path in coding
+- also had conversations with professionals in the workfield to help me to choose my path in coding
 
 
 **As far learning C# coding / .NET development concerned I was BUSY WITH:**
@@ -65,22 +65,19 @@ Other
 - keep having conversations with professionals in the workfield to help me to choose my path in coding
 
 **As far learning C# coding / .NET development concerned I am BUSY WITH:**
-- Working!! (..and ofcourse learning a lot at Bookerz!)</BR>
+- Working!! Learning a lot at Bookerz!</BR>
 
 
 **As far learning C# coding / .NET development concerned I WANT TO / PLANNED TO learn & goals:**
-- improve my C# / .NET and SQL skills even more...
+- improve my C# / .NET, SQL and Javascript skills even more...
 - just gain workexperience
 - keep up with new things in .NET with main focus on Blazor
 
 
 **And if time left I would like to:**
 - learn more Blazor (build my own new MSX website (hobby) Blazor Webassembly / and Blazor Server App)
-- more indepth about the differnet architectures / best practices etc.
-- better understanding and learn more of building IOS and mobile applications (MAUI / Blazor Hybrid)
-- expand my front-end knowledge (HTML, CSS, Bootstrap, Angular, React, Vue)
-- learn other programming languages (C++, Java)
-- 
+- more indepth about the different architectures / best practices etc.
+- expand my front-end knowledge (Javascript, HTML, CSS and Bootstrap)
 
 How to reach me:
 vanhoornraymond@gmail.com
