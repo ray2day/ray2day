@@ -5,7 +5,7 @@ Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) C# / .NET develop
 December 2021: Graduated post bachelor C# programming at Avans+ hoge school in 's-Hertogenbosch.<br/>
 May 2022 - November 2022: Half year working as a backend developer in a team on a project of social interest.<br/>
 June 2022: Passed the official Professional Scrum Master (PSMI) exam.<br/>
-November 2022: Demo of the project. Received well by the customer. (I was asked to continue along with project, but because it was volunteer work I chose to leave and apply for a paid job.)<br/>
+November 2022: Demo of the project. Received well by the customer. I was asked to continue along with project, but I chose to leave and apply for a paid job.<br/>
 In between: Lots of self study. Improving skills, mainly focused on building API's. Busy with my own Blazor Server App project, my future MSX website (with a lot of functionallity: calendar, blog, database etc,).<br/>
 May 2023 - till now: Working as Back End developer at Bookerz | Marketing Automation (backend: C#, .NET and SQL, and a little frontend: HTML / Javascript).
 
@@ -44,7 +44,7 @@ As far earlier coding experiences concerned I have a history in:
 >> Scrum:</BR>
 • Professional Scrum Master (PSM I) (certificate)</P>
 
-- at Bookerz: Everyday I am working with Visual Studio, write code in C# and doing a lot of database work writing a lot of complex queries using SQL Server Management Studio. Also I am using a lot of other tools like for example Gitkraken and Postman. I enjoy coding and being part of great projects in which I learn a lot from my back end collegues.</BR>
+- at Bookerz: Everyday I am working with Visual Studio, write mainly back end code in C# and doing a lot of database work writing a lot of complex queries using SQL Server Management Studio. Also using tools like Gitkraken, Trello and Postman. I also do some front end work (HTML and Javascript) on a regular basis. I enjoy coding and being part of great projects in which I learn a lot from my collegues.</BR>
 
 Other courses</BR>
 • C# Test-Driven development, Introduction to ASP.NET Core MVC (.NET 5), Learn ASP.NET Core MVC (.NET 6), Building a .NET 6 API Using TDD and The Bowling Game Kata</P>
@@ -65,7 +65,7 @@ Other
 - keep having conversations with professionals in the workfield to help me to choose my path in coding
 
 **As far learning C# coding / .NET development concerned I am BUSY WITH:**
-- Working!! Learning a lot at Bookerz!</BR>
+- Working!! And learning a lot at Bookerz!</BR>
 
 
 **As far learning C# coding / .NET development concerned I WANT TO / PLANNED TO learn & goals:**
