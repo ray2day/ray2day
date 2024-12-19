@@ -1,6 +1,6 @@
 Hello and welcome to my GitHub,
 
-Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) C# / .NET developer. In this file you can read how I retrained to become a programmer and how I am improving my C# and .NET coding skills everyday.
+Let me introduce myself: I’m Raymond van Hoorn (aka ray2day) C# / .NET developer. In this file you can read how I became a programmer and how I am improving my C# and .NET coding skills everyday.
 
 December 2021: Graduated post bachelor C# programming at Avans+ hoge school in 's-Hertogenbosch.<br/>
 May 2022 - November 2022: Half year working as a backend developer in a team on a project of social interest.<br/>
@@ -75,7 +75,7 @@ Other
 
 
 **And if time left I would like to:**
-- learn more Blazor (build my own new MSX website (hobby) Blazor Webassembly / and Blazor Server App)
+- learn more Blazor (build my own new MSX website and a webapp to Learn Arabic (hobby) Blazor Webassembly / and Blazor Server App)
 - more indepth about the different architectures / best practices etc.
 - expand my front-end knowledge (Javascript, HTML, CSS and Bootstrap)
 
