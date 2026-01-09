@@ -64,9 +64,6 @@ Other
 - learn more about Azure DevOps / Active Directory / Authentication and Authorization
 - keep having conversations with professionals in the workfield to help me to choose my path in coding
 
-**As far learning C# coding / .NET development concerned I am BUSY WITH:**
-- Working!! And learning a lot at Bookerz!</BR>
-
 
 **As far learning C# coding / .NET development concerned I WANT TO / PLANNED TO learn & goals:**
 - improve my C# / .NET, SQL and Javascript skills even more...
